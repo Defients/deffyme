@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-08",
+  "generator": "Built-in image_gen for room only; sharp for deterministic encoding/resizing",
+  "references": [
+    {
+      "filename": "default-defdef_final.png",
+      "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef"
+    },
+    {
+      "filename": "Defdef-peeking.png",
+      "sha256": "d128efc2427e69c923bf9c27aa80e87840a0fc8af139e802118a343dc50dab13"
+    },
+    {
+      "filename": "Defdef-resting.png",
+      "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef"
+    },
+    {
+      "filename": "Defdef-curious.png",
+      "sha256": "0db238a0e15bfd6ca0bb0a6fb8ec210a6e975d53a855f5e04dfda8ee39ead023"
+    },
+    {
+      "filename": "Defdef-smug.png",
+      "sha256": "36226e8f1389e70cf9f4b621ce261433551f84026217a7e2b849ac2e524758da"
+    },
+    {
+      "filename": "Defdef-pointing.png",
+      "sha256": "7d3619d443e749d58c1b18956067aeb757c7653e72fc40bf460a813efbb929b5"
+    },
+    {
+      "filename": "Defdef-retreating.png",
+      "sha256": "cce7452379f0c84378956e460b004a91b758e5b708fa7935e0a4388a862efa62"
+    }
+  ],
+  "runtime": [
+    {
+      "file": "room-1280.webp",
+      "role": "Illustrated invented environment",
+      "width": 1280,
+      "height": 720,
+      "bytes": 67784,
+      "sha256": "59012cdd975750b7d2f08bc738a1c64f1418c5ccc1dc0e3e4ef6ae3a469528fc",
+      "hasAlpha": false
+    },
+    {
+      "file": "room-1920.webp",
+      "role": "Illustrated invented environment",
+      "width": 1920,
+      "height": 1081,
+      "bytes": 115524,
+      "sha256": "8541500818b339573177ebd29de584e97aff5e702c7a241677a56a863acb7fdd",
+      "hasAlpha": false
+    },
+    {
+      "file": "room-mobile.webp",
+      "role": "Mobile composition of invented environment",
+      "width": 768,
+      "height": 768,
+      "bytes": 66412,
+      "sha256": "d9d6dd6bba58d0ee52b4c2c49b4a2ebc4e38f6c067a7d508ef015540f1477419",
+      "hasAlpha": false
+    },
+    {
+      "file": "defdef-resting.webp",
+      "role": "Supplied canonical resting pose; encoding/scale/padding only",
+      "width": 384,
+      "height": 480,
+      "bytes": 54176,
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76",
+      "hasAlpha": true
+    }
+  ]
+}

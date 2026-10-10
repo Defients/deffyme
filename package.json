@@ -1,0 +1,41 @@
+{
+  "name": "deffy-me-rebirth",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "check": "astro check",
+    "prebuild": "node scripts/export-content.mjs",
+    "build": "astro build && node scripts/verify-output.mjs",
+    "preview": "astro preview --host 127.0.0.1 --port 4321",
+    "test": "node --test tests/publication.test.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "verify:legacy": "python scripts/verify-legacy.py",
+    "assets": "node scripts/prepare-assets.mjs"
+  },
+  "dependencies": {
+    "@astrojs/react": "7.0.1",
+    "@fontsource-variable/inter": "5.3.0",
+    "@fontsource-variable/space-grotesk": "5.3.0",
+    "@tailwindcss/vite": "4.3.3",
+    "astro": "7.3.8",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "tailwindcss": "4.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@axe-core/playwright": "4.13.0",
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "node": "22.23.3",
+    "playwright": "1.64.0",
+    "sharp": "0.35.5",
+    "typescript": "6.0.3"
+  }
+}

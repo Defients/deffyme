@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeading from '../../components/PageHeading.astro';
+import Icon from '../../components/Icon.astro';
+import { site } from '../../content/site';
+---
+<BaseLayout title="Say hello — Deffy"><section class="inside">
+ <PageHeading eyebrow="The internet is better with people" title="Say hello." intro="Come for a game, follow an experiment, or see what I’m building."/>
+ <div class="link-list"><a href={site.socials.twitch}><span>Twitch</span><small>theDeffy · My main stream</small><Icon name="external"/></a><a href={site.socials.kick}><span>Kick</span><small>deffy</small><Icon name="external"/></a><a href={site.socials.github}><span>GitHub</span><small>Defients · Code & experiments</small><Icon name="external"/></a></div>
+</section></BaseLayout>
+

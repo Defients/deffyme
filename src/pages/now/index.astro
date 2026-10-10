@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeading from '../../components/PageHeading.astro';
+import Icon from '../../components/Icon.astro';
+import { site } from '../../content/site';
+---
+<BaseLayout title="Around here — Deffy"><section class="inside">
+ <PageHeading eyebrow="Still creaturing" title="Find me around." intro="Games, experiments, and whatever the next idea turns into. Twitch is my main streaming home; you can also find me on Kick."/>
+ <div class="link-list"><a href={site.socials.twitch}><span>Twitch</span><small>theDeffy · Primary</small><Icon name="external"/></a><a href={site.socials.kick}><span>Kick</span><small>deffy · Secondary</small><Icon name="external"/></a><a href="/forge/"><span>At the workbench</span><small>Explore the projects</small><Icon name="arrow"/></a></div>
+</section></BaseLayout>
+

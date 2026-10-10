@@ -1,0 +1,43 @@
+---
+import Icon from '../components/Icon.astro';
+import { site } from '../content/site';
+---
+<section class="meet-section frame" id="meet" aria-labelledby="meet-title">
+ <div class="chapter-heading"><p class="eyebrow"><span class="chapter-number">02</span> Beyond the username</p><span class="chapter-rule"></span><span class="chapter-aside">Curiosity lives here.</span></div>
+ <div class="meet-intro">
+  <div><h2 id="meet-title">An unusual<br/><span>creature.</span></h2><p class="location"><span class="location-dot"></span>From New Hampshire. Frequently elsewhere in my head.</p></div>
+  <div class="meet-prose">
+   <p class="lead">Hi. I’m Deffy. There’s a person<br class="wide-only"/> behind all the peculiar stuff.</p>
+   <p>I’m a lifelong PC gamer, an aspiring streamer, and a self-taught creator. World of Warcraft and League of Legends have been part of my life for years. So have computers, internet friendships, and the question “what if?”</p>
+   <p>Sometimes that question becomes a game. Sometimes it becomes software, music, or an entire fictional universe. Sometimes an idea is just too ridiculous to leave alone.</p>
+   <p>I care about individuality, honest conversation, and meaningful connections. I’m also contradictory, imperfect, and perfectly capable of getting things wrong. You’ll find a little of all of that here.</p>
+   <a class="inline-link" href="/story/">Get to know the human <Icon name="arrow" size={19}/></a>
+  </div>
+ </div>
+ <div class="interest-heading"><p>A few things taking up space in here</p><span aria-hidden="true">↘</span></div>
+ <div class="interests">
+  <article class="interest game-interest">
+   <div class="interest-top"><span class="object-number">01 / PLAY</span><Icon name="game" size={28}/></div>
+   <div class="playing-cards" aria-hidden="true"><span class="playing-card card-back"></span><span class="playing-card card-face"><b>A<span>♠</span></b><i>♠</i></span></div>
+   <h3>One more game.</h3><p>For the strategy, the people, and the occasional spectacularly bad decision.</p>
+   <details class="interest-disclosure"><summary>A little more <Icon name="chevron" size={16}/></summary><p>Longtime favorites: World of Warcraft and League of Legends. Inventing my own card game was probably inevitable.</p></details>
+   <a href="/forge/?category=Game">Games I’m making <Icon name="arrow" size={18}/></a>
+  </article>
+  <article class="interest music-interest">
+   <div class="interest-top"><span class="object-number">02 / LISTEN</span><Icon name="music" size={26}/></div>
+   <div class="vinyl-art" aria-hidden="true"><div class="record"><span class="record-label"><span>DP</span></span></div><div class="record-sleeve"><span>Sound<br/>happens.</span><i>✳</i></div></div>
+   <h3>Follow the noise.</h3><p>Musical experiments, strange moods, and ideas that needed a different kind of voice.</p>
+   <details class="interest-disclosure"><summary>A little more <Icon name="chevron" size={16}/></summary><p>I’m taking my time choosing what to share. The listening space will grow as I find the tracks that belong here.</p></details>
+   <a href="/music/">The listening space <Icon name="arrow" size={18}/></a>
+  </article>
+  <article class="interest make-interest">
+   <div class="interest-top"><span class="object-number">03 / MAKE</span><Icon name="pencil" size={26}/></div>
+   <div class="notebook-art" aria-hidden="true"><div class="notebook-cover"><span>what<br/>if<span class="notebook-question">?</span></span><i>↗</i></div><span class="pencil-art"></span></div>
+   <h3>Question the defaults.</h3><p>Games, code, AI, entire worlds. An idea doesn’t have to be useful to be worth exploring.</p>
+   <details class="interest-disclosure"><summary>A little more <Icon name="chevron" size={16}/></summary><p>I’m curious about AI, psychology, philosophy, and the future relationship between people and technology. Sometimes I build things to think through the questions.</p></details>
+   <a href="/forge/">See what happens <Icon name="arrow" size={18}/></a>
+  </article>
+ </div>
+ <div class="meet-outro"><span class="outro-star" aria-hidden="true">✳</span><p>You don’t have to figure me out.<br/><strong>Have a look around.</strong></p><a href={site.socials.twitch} class="button-outline">Find me on Twitch <Icon name="external" size={18}/></a></div>
+</section>
+

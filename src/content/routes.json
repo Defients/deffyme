@@ -1,0 +1,39 @@
+{
+  "ownedHtml": [
+    "index.html",
+    "story/index.html",
+    "astrizda/index.html",
+    "forge/index.html",
+    "now/index.html",
+    "music/index.html",
+    "connect/index.html",
+    "site-privacy/index.html",
+    "404.html"
+  ],
+  "ownedSupport": [
+    "robots.txt",
+    "sitemap.xml",
+    "favicon.svg"
+  ],
+  "ownedAssetDirectories": [
+    "_astro/",
+    "rebirth-assets/"
+  ],
+  "protectedNamespaces": [
+    "projects/",
+    "dm/",
+    "codex/",
+    "astril/",
+    "privacy/",
+    "support/",
+    "downloads/",
+    "music/"
+  ],
+  "musicException": "music/index.html only; no existing track paths",
+  "legacyStoryDecision": {
+    "newBiography": "/story/",
+    "preservedApp": "https://deffy.me/projects/story/",
+    "preservedAlias": "/storytime",
+    "action": "Future publisher must retire only the conflicting /story alias before installing biography; no redirects emitted in this preview."
+  }
+}

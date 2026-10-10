@@ -1,0 +1,29 @@
+---
+import Icon from '../components/Icon.astro';
+---
+<section class="hero" aria-labelledby="welcome-title">
+ <div class="hero-environment" aria-hidden="true">
+  <picture>
+   <source media="(max-width: 640px)" srcset="/rebirth-assets/room-mobile.webp"/>
+   <source media="(max-width: 1100px)" srcset="/rebirth-assets/room-1280.webp"/>
+   <img src="/rebirth-assets/room-1920.webp" width="1920" height="1080" alt="" fetchpriority="high" decoding="async"/>
+  </picture>
+ </div>
+ <div class="hero-copy frame">
+  <p class="eyebrow"><span class="tiny-spark">✳</span> Welcome to my corner of the internet</p>
+  <h1 id="welcome-title">Welcome<br/>to my <span>head.</span></h1>
+  <p class="hero-name">I’m Deffy Pyah Urz.<br/><span>The Creature of the Internet.</span></p>
+  <p class="hero-intro">Gamer, maker, worldbuilder. I follow strange ideas<br class="wide-only"/> a little further than I probably should.</p>
+  <div class="hero-actions"><a class="button-primary" href="#meet">Meet the Creature <Icon name="arrow"/></a><a class="button-text" href="/forge/">The Forge <span class="muted">/ projects</span> <Icon name="external" size={18}/></a></div>
+  <div class="hero-footnote"><span class="small-line"></span>A real person. An unreasonable number of ideas.</div>
+ </div>
+ <div class="room-details">
+  <img class="defdef" src="/rebirth-assets/defdef-resting.webp" alt="Defdef, a small dark creature with a gold crown and violet-edged fur." width="384" height="480" decoding="async"/>
+  <details class="desk-note">
+   <summary><span class="note-dot"></span>A note to myself <Icon name="pencil" size={15}/></summary>
+   <div class="note-paper"><span class="paper-label">A VERY REASONABLE PLAN</span><p>Finish one thing.</p><p class="note-scribble">Complications: ideas.</p></div>
+  </details>
+ </div>
+ <div class="hero-bottom frame"><a href="#meet"><span class="down-arrow">↓</span> There’s a human in here.</a><span class="environment-caption">An imagined room. A familiar state of mind.</span></div>
+</section>
+

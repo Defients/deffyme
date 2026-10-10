@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeading from '../../components/PageHeading.astro';
+import ProjectFilter from '../../components/ProjectFilter';
+import { projects } from '../../content/site';
+---
+<BaseLayout title="The Forge — Projects by Deffy"><section class="inside">
+ <PageHeading eyebrow="Ideas that escaped the notebook" title="The Forge." intro="A few things I’m making. Some practical. Some peculiar. All works in progress."/>
+ <ProjectFilter projects={projects} client:idle/>
+ <p class="small-print">These projects are actively evolving. Available features depend on each project’s current build and configuration.</p>
+</section></BaseLayout>
+

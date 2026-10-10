@@ -1,0 +1,6 @@
+---
+interface Props { eyebrow:string; title:string; intro?:string; }
+const { eyebrow,title,intro }=Astro.props;
+---
+<p class="eyebrow"><span class="tiny-spark">✳</span>{eyebrow}</p><h1>{title}</h1>{intro&&<p class="intro">{intro}</p>}
+

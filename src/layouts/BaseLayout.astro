@@ -1,0 +1,73 @@
+---
+import '../styles/global.css';
+import Icon from '../components/Icon.astro';
+import { navigation, site } from '../content/site';
+interface Props { title?:string; description?:string; home?:boolean; }
+const { title='Deffy Pyah Urz — The Creature of the Internet', description='Games, strange ideas, and worlds of my own making. Welcome to Deffy’s corner of the internet.', home=false }=Astro.props;
+const pathname=Astro.url.pathname;
+---
+<!doctype html>
+<html lang="en" data-motion="essential">
+ <head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="description" content={description}/><meta name="theme-color" content="#0d0c12"/>
+  <meta name="robots" content="noindex, nofollow"/>
+  <meta property="og:type" content="website"/><meta property="og:title" content={title}/>
+  <meta property="og:description" content={description}/><meta property="og:url" content={new URL(pathname,'https://deffy.me')}/>
+  <meta property="og:image" content="https://deffy.me/rebirth-assets/room-1920.webp"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <link rel="canonical" href={new URL(pathname,'https://deffy.me')}/>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+  <title>{title}</title>
+  <script is:inline>
+   (()=>{let p='balanced';try{const s=localStorage.getItem('deffy:experience:v1');if(['essential','balanced','full'].includes(s))p=s;}catch{}document.documentElement.dataset.motion=matchMedia('(prefers-reduced-motion: reduce)').matches?'essential':p;})();
+  </script>
+ </head>
+ <body class:list={[home?'home-page':'inside-page']}>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+   <div class="header-inner">
+    <a class="wordmark" href="/" aria-label="Deffy.me home"><span class="brand-spark"><Icon name="star" size={25}/></span>deffy<span class="brand-dot">.</span>me</a>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+     {navigation.map(item=><a href={item.href} aria-current={pathname===item.href?'page':undefined}>{item.label}{item.label==='The Forge'&&<span class="nav-caption"> / projects</span>}</a>)}
+    </nav>
+    <div class="header-actions">
+     <details class="preferences" data-dismissable>
+      <summary aria-label="Experience settings" title="Experience settings"><Icon name="settings"/></summary>
+      <div class="preference-panel">
+       <p class="panel-title">Make yourself comfortable.</p>
+       <fieldset data-preference-fields hidden>
+        <legend>Movement</legend>
+        <label><input type="radio" name="experience" value="essential"/><span>Essential<small>Still, quiet, complete.</small></span></label>
+        <label><input type="radio" name="experience" value="balanced"/><span>Balanced<small>A little atmosphere.</small></span></label>
+        <label><input type="radio" name="experience" value="full"/><span>Full<small>Subtle depth on interaction.</small></span></label>
+       </fieldset>
+       <p data-motion-status class="setting-status" role="status"></p>
+       <noscript><p>Your system’s motion preference is respected. All content is available without JavaScript.</p></noscript>
+      </div>
+     </details>
+     <a class="header-connect" href="/connect/">Say hello <Icon name="external" size={16}/></a>
+     <details class="mobile-nav" data-dismissable>
+      <summary>Menu <Icon name="chevron" size={16}/></summary>
+      <nav aria-label="Mobile navigation">
+       {navigation.map(item=><a href={item.href}>{item.label}{item.label==='The Forge'?' — Projects':''}</a>)}
+       <a href="/connect/">Say hello</a><a href="/music/">Music</a>
+      </nav>
+     </details>
+    </div>
+   </div>
+  </header>
+  <main id="main" tabindex="-1"><slot/></main>
+  <footer class="site-footer">
+   <div class="footer-main">
+    <a class="wordmark" href="/"><span class="brand-spark"><Icon name="star" size={22}/></span>deffy<span class="brand-dot">.</span>me</a>
+    <p>A peculiar little corner of the internet.</p>
+    <div class="footer-links"><a href={site.socials.twitch}>Twitch <Icon name="external" size={14}/></a><a href={site.socials.github}>GitHub <Icon name="external" size={14}/></a><a href="/connect/">Connect</a></div>
+   </div>
+   <div class="footer-bottom"><span>Made of curiosity. Occasionally held together by it.</span><a href="/site-privacy/">Site privacy</a><span class="pyah">PYAH!</span></div>
+  </footer>
+  <script>
+   import '../scripts/experience';
+  </script>
+ </body>
+</html>
