@@ -1,0 +1,170 @@
+{
+  "scope": "Supplemental static study only; no production, visitor or causal validation",
+  "checks": [
+    {
+      "file": "index.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 674,
+          "height": 379.3125
+        },
+        {
+          "width": 674,
+          "height": 379.3125
+        },
+        {
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 390,
+          "height": 290
+        },
+        {
+          "width": 390,
+          "height": 290
+        },
+        {
+          "width": 390,
+          "height": 370
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 320,
+          "height": 250
+        },
+        {
+          "width": 320,
+          "height": 250
+        },
+        {
+          "width": 320,
+          "height": 315
+        }
+      ]
+    },
+    {
+      "file": "ack.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 674,
+          "height": 379.3125
+        },
+        {
+          "width": 674,
+          "height": 379.3125
+        },
+        {
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
+    {
+      "file": "ack.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 390,
+          "height": 290
+        },
+        {
+          "width": 390,
+          "height": 290
+        },
+        {
+          "width": 390,
+          "height": 370
+        }
+      ]
+    },
+    {
+      "file": "ack.html",
+      "mode": "No JS; OS reduced motion",
+      "width": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "scenes": [
+        {
+          "width": 320,
+          "height": 250
+        },
+        {
+          "width": 320,
+          "height": 250
+        },
+        {
+          "width": 320,
+          "height": 315
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "../phase1-v2-refinement/assets/signal-loom-desktop.webp",
+      "sha256": "6f01631b9be26b79ef4361ec5921522ad246683caf23238e8f5f184fc47581bb",
+      "bytes": 108650,
+      "handling": "Referenced unchanged; no copy or derivative generated"
+    },
+    {
+      "path": "../phase1-v2-refinement/assets/defdef-resting.webp",
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76",
+      "bytes": 54176,
+      "handling": "Referenced unchanged; no copy or derivative generated"
+    },
+    {
+      "path": "../phase1-v2-refinement/assets/inter.woff2",
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "bytes": 48256,
+      "handling": "Referenced unchanged; no copy or derivative generated"
+    },
+    {
+      "path": "../phase1-v2-refinement/assets/space-grotesk.woff2",
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d",
+      "bytes": 22288,
+      "handling": "Referenced unchanged; no copy or derivative generated"
+    }
+  ],
+  "failed": []
+}
