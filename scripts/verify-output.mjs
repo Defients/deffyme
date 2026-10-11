@@ -38,7 +38,7 @@ if(/<astro-island\b/.test(homepage)||/<script\b[^>]*\bsrc=/.test(homepage))error
 if(forgeJsGzip>150*1024)errors.push('Forge total JavaScript budget exceeded');
 if(fonts.length>2||fonts.reduce((n,r)=>n+r.bytes,0)>100*1024)errors.push('Font budget exceeded');
 for(const asset of assets){if(asset.file.includes('defdef')&&(asset.bytes>140*1024||asset.width*asset.height*4>4*1024*1024))errors.push('Defdef runtime budget exceeded');}
-const manifest={phase:'M0–M2 local preview',deploymentAuthorized:false,htmlRoutes:html.sort(),budgets:{homepageHtmlGzip:htmlSize,homepageJsGzip,cssGzip:cssSize,forgeJsGzip,fontBytes:fonts.reduce((n,r)=>n+r.bytes,0)},files:rows,errors,pass:errors.length===0};
+const manifest={phase:'G1 static Gatehouse local preview; M0–M2 archive-publication boundary retained',deploymentAuthorized:false,htmlRoutes:html.sort(),budgets:{homepageHtmlGzip:htmlSize,homepageJsGzip,cssGzip:cssSize,forgeJsGzip,fontBytes:fonts.reduce((n,r)=>n+r.bytes,0)},files:rows,errors,pass:errors.length===0};
 await mkdir('artifacts',{recursive:true});await writeFile('artifacts/output-audit.json',JSON.stringify(manifest,null,2)+'\n');
 console.log(JSON.stringify({pass:manifest.pass,htmlRoutes:html.length,files:files.length,homepageGzipBytes:htmlSize,cssGzipBytes:cssSize,errors},null,2));
 if(errors.length)process.exitCode=1;

@@ -17,7 +17,7 @@ choices.forEach(choice=>choice.addEventListener('change',()=>{
  apply();
 }));
 reduce.addEventListener('change',apply);apply();
-const disclosures=Array.from(document.querySelectorAll<HTMLDetailsElement>('header details[data-dismissable]'));
+const disclosures=Array.from(document.querySelectorAll<HTMLDetailsElement>('details[data-dismissable]'));
 disclosures.forEach(details=>{
  details.addEventListener('toggle',()=>{
   if(details.open)disclosures.forEach(other=>{if(other!==details)other.open=false;});
