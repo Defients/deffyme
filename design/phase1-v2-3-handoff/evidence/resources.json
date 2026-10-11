@@ -1,0 +1,92 @@
+{
+  "scope": "Offline derivative feasibility only. PNG masters used in plates are not delivery assets; generated second environment is a study, not a proposed mandatory second runtime download. No production transfer or timing measurement.",
+  "poses": [
+    {
+      "file": "assets/canonical-defdef-delivery-trial.webp",
+      "bytes": 64612,
+      "KiB": 63.1,
+      "width": 370,
+      "height": 480,
+      "decodedMiB": 0.68,
+      "sha256": "18cd316ded6b33dd6a76cacebb92fabc95ba3da1b75b0f478eb61668777b10da"
+    },
+    {
+      "file": "assets/Defdef-smug-delivery-trial.webp",
+      "bytes": 67488,
+      "KiB": 65.91,
+      "width": 365,
+      "height": 480,
+      "decodedMiB": 0.67,
+      "sha256": "23598c63222cbbb6f9e8e63ffc02dd4ba901b97f3c54d488a7cc6a52b72bb974"
+    },
+    {
+      "file": "assets/Defdef-pointing-delivery-trial.webp",
+      "bytes": 65770,
+      "KiB": 64.23,
+      "width": 377,
+      "height": 480,
+      "decodedMiB": 0.69,
+      "sha256": "893ed2b1fc54d447eba8dde3112d6fb304adf614c7ca7569ea67ac39dda4fc77"
+    }
+  ],
+  "environments": [
+    {
+      "file": "assets/loom-idle-desktop.webp",
+      "bytes": 261606,
+      "KiB": 255.47,
+      "width": 1672,
+      "height": 941,
+      "decodedMiB": 6
+    },
+    {
+      "file": "assets/loom-idle-mobile.webp",
+      "bytes": 165492,
+      "KiB": 161.61,
+      "width": 772,
+      "height": 830,
+      "decodedMiB": 2.44
+    },
+    {
+      "file": "assets/loom-ack-desktop.webp",
+      "bytes": 225994,
+      "KiB": 220.7,
+      "width": 1672,
+      "height": 941,
+      "decodedMiB": 6
+    },
+    {
+      "file": "assets/loom-ack-mobile.webp",
+      "bytes": 151514,
+      "KiB": 147.96,
+      "width": 772,
+      "height": 830,
+      "decodedMiB": 2.44
+    }
+  ],
+  "pairs": [
+    {
+      "environment": "assets/loom-idle-desktop.webp",
+      "maxPoseKiB": 65.91,
+      "combinedKiB": 321.38,
+      "limitKiB": 500
+    },
+    {
+      "environment": "assets/loom-idle-mobile.webp",
+      "maxPoseKiB": 65.91,
+      "combinedKiB": 227.52,
+      "limitKiB": 300
+    },
+    {
+      "environment": "assets/loom-ack-desktop.webp",
+      "maxPoseKiB": 65.91,
+      "combinedKiB": 286.61,
+      "limitKiB": 500
+    },
+    {
+      "environment": "assets/loom-ack-mobile.webp",
+      "maxPoseKiB": 65.91,
+      "combinedKiB": 213.87,
+      "limitKiB": 300
+    }
+  ]
+}

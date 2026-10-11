@@ -1,0 +1,20 @@
+[
+  {
+    "source": "../mySite-deffyme/docs/rebirth/reference-assets/defdef/default-defdef_final.png",
+    "copy": "design/phase1-v2-3-handoff/assets/canonical-defdef.png",
+    "byteIdentical": true,
+    "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef"
+  },
+  {
+    "source": "../mySite-deffyme/docs/rebirth/reference-assets/defdef/Defdef-smug.png",
+    "copy": "design/phase1-v2-3-handoff/assets/Defdef-smug.png",
+    "byteIdentical": true,
+    "sha256": "36226e8f1389e70cf9f4b621ce261433551f84026217a7e2b849ac2e524758da"
+  },
+  {
+    "source": "../mySite-deffyme/docs/rebirth/reference-assets/defdef/Defdef-pointing.png",
+    "copy": "design/phase1-v2-3-handoff/assets/Defdef-pointing.png",
+    "byteIdentical": true,
+    "sha256": "7d3619d443e749d58c1b18956067aeb757c7653e72fc40bf460a813efbb929b5"
+  }
+]

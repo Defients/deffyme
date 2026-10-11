@@ -1,0 +1,37 @@
+[
+  {
+    "file": "assets/canonical-defdef.png",
+    "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef",
+    "bytes": 1851623,
+    "width": 1122,
+    "height": 1402,
+    "study": "assets/canonical-defdef-study.png",
+    "studyWidth": 1081,
+    "studyHeight": 1402,
+    "operation": "Lossless transparent-margin trim only; no redraw, recolor, filter, stretch or pose synthesis"
+  },
+  {
+    "file": "assets/Defdef-smug.png",
+    "sha256": "36226e8f1389e70cf9f4b621ce261433551f84026217a7e2b849ac2e524758da",
+    "bytes": 1889057,
+    "width": 1122,
+    "height": 1402,
+    "study": "assets/Defdef-smug-study.png",
+    "studyWidth": 1065,
+    "studyHeight": 1402,
+    "operation": "Lossless transparent-margin trim only; no redraw, recolor, filter, stretch or pose synthesis",
+    "relativeDisplayScale": 0.9851988899167438
+  },
+  {
+    "file": "assets/Defdef-pointing.png",
+    "sha256": "7d3619d443e749d58c1b18956067aeb757c7653e72fc40bf460a813efbb929b5",
+    "bytes": 1853040,
+    "width": 1122,
+    "height": 1402,
+    "study": "assets/Defdef-pointing-study.png",
+    "studyWidth": 1101,
+    "studyHeight": 1402,
+    "operation": "Lossless transparent-margin trim only; no redraw, recolor, filter, stretch or pose synthesis",
+    "relativeDisplayScale": 1.0185013876040703
+  }
+]

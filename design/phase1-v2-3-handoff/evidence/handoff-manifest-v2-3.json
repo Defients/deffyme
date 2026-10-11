@@ -1,0 +1,335 @@
+{
+  "version": "2.3",
+  "baselineCommit": "8d042624fda2fc6075c0e320d30eadb8bfd57f5f",
+  "exclusions": [
+    "handoff-manifest-v2-3.json",
+    "verification-v2-3.json"
+  ],
+  "files": [
+    {
+      "file": "design/phase1-v2-3-handoff/ack-pointing.html",
+      "bytes": 2400,
+      "sha256": "a819845fdbc9d428a15c4c5ad74ea0e41816c6174a2e7edcf22e2dc446f85567"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/ack-smug.html",
+      "bytes": 2404,
+      "sha256": "7c14ed05db67f8fa701ef80ef5e9c81977ac9f8dc69fc608f0cf0c83c337ee5b"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/canonical-defdef-delivery-trial.webp",
+      "bytes": 64612,
+      "sha256": "18cd316ded6b33dd6a76cacebb92fabc95ba3da1b75b0f478eb61668777b10da"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/canonical-defdef-study.png",
+      "bytes": 2671793,
+      "sha256": "1b4ba90bdfc551e969a1ef8d6236145dd73b155b7c489e87da68a77d9d2e7da6"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/canonical-defdef.png",
+      "bytes": 1851623,
+      "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-pointing-delivery-trial.webp",
+      "bytes": 65770,
+      "sha256": "893ed2b1fc54d447eba8dde3112d6fb304adf614c7ca7569ea67ac39dda4fc77"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-pointing-study.png",
+      "bytes": 2646874,
+      "sha256": "10a0e9d6a368e910c1a5a2f98fc5545966f245ac5c43ff6eb3c91fa85a67fab8"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-pointing.png",
+      "bytes": 1853040,
+      "sha256": "7d3619d443e749d58c1b18956067aeb757c7653e72fc40bf460a813efbb929b5"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-smug-delivery-trial.webp",
+      "bytes": 67488,
+      "sha256": "23598c63222cbbb6f9e8e63ffc02dd4ba901b97f3c54d488a7cc6a52b72bb974"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-smug-study.png",
+      "bytes": 2705769,
+      "sha256": "e712d27402723fb42928388992edb82b09305a1f929815fb11f8405b299796d0"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/Defdef-smug.png",
+      "bytes": 1889057,
+      "sha256": "36226e8f1389e70cf9f4b621ce261433551f84026217a7e2b849ac2e524758da"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/environment-prompts.json",
+      "bytes": 4039,
+      "sha256": "ee95c6d3b944675c0f829d64aec7f97d0c434d466fa0057eb1f3cce6c181eba4"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-ack-desktop.webp",
+      "bytes": 225994,
+      "sha256": "ec6cd768b7a669e7427db18fa1d05d5e975b6064381effbc4b0464cadf293b01"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-ack-mobile.webp",
+      "bytes": 151514,
+      "sha256": "8dcb113c43fd2e3d886a09df5c21d890a2298731fbe7dc52dbf1f0c324764372"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-corrected-ack-source.png",
+      "bytes": 2205277,
+      "sha256": "388459b6fd396ea0c67970dc01d64dc8e2a22f8bebafa60a38d4babbc781983b"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-corrected-idle-source.png",
+      "bytes": 2315692,
+      "sha256": "961a4b66b98d253d24de47c0941e027d77087222f168d7c4643bfd54ab85e3b0"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-idle-desktop.webp",
+      "bytes": 261606,
+      "sha256": "a1e039e6f9cab12dc4639cf51c455eb799a3a2da89bd985f934f67bf70b8dc16"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/assets/loom-idle-mobile.webp",
+      "bytes": 165492,
+      "sha256": "b56167813cde72b837fe23c460f5eb3871d695c47f38a00807ae724763e0caed"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/baseline-v2-3.json",
+      "bytes": 67555,
+      "sha256": "83a5a7116358086c965c4de9710591e852716b507e328ffd9ad7b5dea827c13e"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/canonical-copy-check.json",
+      "bytes": 834,
+      "sha256": "d5a8320546dd7355847f37dead3ba38446ddf96e84a015302152fa70ad96fd6f"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/canonical-provenance.json",
+      "bytes": 1304,
+      "sha256": "92ce9775392712f0564e874208051a7d042caca6ca9de7efbb2d37254f321eec"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/frozen-verifier-after.json",
+      "bytes": 7916,
+      "sha256": "61f29ce7c5b164acf3a02d051d57d83a40f5951baa7d594c3c85bf75b85f8aa9"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/frozen-verifier-before.json",
+      "bytes": 7916,
+      "sha256": "61f29ce7c5b164acf3a02d051d57d83a40f5951baa7d594c3c85bf75b85f8aa9"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/render-checks.json",
+      "bytes": 5880,
+      "sha256": "7ee618be3c9811f0dd52c55b0b9d0ee8d86b2952775b57f62c9bc931de38fbbe"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/evidence/resources.json",
+      "bytes": 2338,
+      "sha256": "03d767b05d578180ad9edbd57e961be7a7fa34611319e540913f118ccb58d3b4"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/idle.html",
+      "bytes": 2134,
+      "sha256": "732a7d242592d5674d5862f82a7f188d7ac0083d28eaec62abd217c6cbe85f37"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/index.html",
+      "bytes": 3322,
+      "sha256": "d8a6c4121424d0bb34721f0e9a327a433bd7eb6404375f1c3825f8e0ab51a7f1"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/inspection.html",
+      "bytes": 2419,
+      "sha256": "09c4dc9ff79e9086d14691d570e93469ad426a4665ac5aaf073185adb4c3acb9"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/measure.mjs",
+      "bytes": 1793,
+      "sha256": "d0eb2c99b00caf273551efeb4551d1dc6e1ba85db22db40992dac46a3da88a75"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/prepare.mjs",
+      "bytes": 5841,
+      "sha256": "269847089f31dd05e699fe47e371d7e5c0c6eb33ecc8ef4d01dc39cc0105ac02"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/README.md",
+      "bytes": 1935,
+      "sha256": "3eaf4768a433f4faa3f2c9e3b9051b9c8e6426b74188e40cc981b277c8f8d077"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/render.mjs",
+      "bytes": 3462,
+      "sha256": "43965be57d11edba9cc742fa73fd1d12ae99a02d77887932108c7bcb2de40b6d"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-pointing-1440.png",
+      "bytes": 1082808,
+      "sha256": "c955925841ea395718adcf22fc7cf16ff256c3c242fa5c383d6695e53fda713b"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-pointing-320-full.png",
+      "bytes": 291950,
+      "sha256": "c8c066a7b75eac1dd341bd9262e15b75e0d2c49dc645d6486df2827721347a23"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-pointing-320.png",
+      "bytes": 241290,
+      "sha256": "6fe5d9d5bfeb4db80e1647a0b7591ac54f8fc954532254494c06195561b73a1c"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-pointing-390-full.png",
+      "bytes": 397553,
+      "sha256": "fd508af8c0d15277415b79be7935395cb3a67c66532f9b054c1740344f8b87f0"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-pointing-390.png",
+      "bytes": 347451,
+      "sha256": "401be488b00a72822e26fd439ace5aa0d07e1f7156484b14f096b9302935ac22"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-smug-1440.png",
+      "bytes": 1081273,
+      "sha256": "be3c0431a1a76b298e4889620d143ba6a53e28d25975b8460dc6e36b626e1116"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-smug-320-full.png",
+      "bytes": 292855,
+      "sha256": "1ae131e7600a7a5c58454dba30c4d5062924c44c7e31bd6655c1953fcdcda88b"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-smug-320.png",
+      "bytes": 241168,
+      "sha256": "04d3e7c2a8bd49f7f3fc35de95da97bc6c0bf8a9ebe6350217ce5bb1e772c3d8"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-smug-390-full.png",
+      "bytes": 398173,
+      "sha256": "3dec3e41648935a6c5ec1010d588f5a62df37f326066ea5f8d8604cf71024df4"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/ack-smug-390.png",
+      "bytes": 347062,
+      "sha256": "80544fbf9d5fc5fb3deb44536017ea778bbcc4fd892a0b4e9dc9aa0154d3a380"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/before-after-1440.png",
+      "bytes": 3038985,
+      "sha256": "b8ddaa735270d2e9ed5f07f77639cd3e749381b2ab5881ca09a62b6838f0da57"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/before-after-320.png",
+      "bytes": 613842,
+      "sha256": "9671ac6875271665d291707e2394eb57e38a83902ed4eedc46abe7ec4ae2c593"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/before-after-390.png",
+      "bytes": 846874,
+      "sha256": "2c1ca87cb0533562f673d48e31bcf644ad8bdb6b7a19940a0c2ecee57ee860c4"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/idle-1440.png",
+      "bytes": 1105607,
+      "sha256": "02d0a36d0ffbd94c2325342b9b404d29ad21d972df753b5b11554f34025b6f6e"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/idle-320-full.png",
+      "bytes": 281781,
+      "sha256": "3c03cce848c030974486e5550638f310c7a8d1158511d15b6fbd853e0653343f"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/idle-320.png",
+      "bytes": 246459,
+      "sha256": "3f99dce967a4ddbe3cf972cf30c9e3e72e3a334c3a4bbc44d81632d9590bd214"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/idle-390-full.png",
+      "bytes": 390459,
+      "sha256": "f149dfb51d2096ab0ddd7b706aa1c81afd29d757280d29969dc187a917b59143"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/idle-390.png",
+      "bytes": 355939,
+      "sha256": "cd84682371b95a1dc250d73229629a2805afe63db788889e89db4ef3107d63f3"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/inspection-1440.png",
+      "bytes": 1081294,
+      "sha256": "87f0feb888b99bc6c28e799972b98800df24fbf951fe6eaec68b404d48d6b8f5"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/inspection-320-full.png",
+      "bytes": 294121,
+      "sha256": "feec0af9b04dfe89a84e1ce5833a389fa64d29c0a9b92bbc4d51364d37745131"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/inspection-320.png",
+      "bytes": 241051,
+      "sha256": "b4d3ad4b4690d2d19bb9b08d2c5698777ae9b0d451daf8314ac1f7b68fefadbb"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/inspection-390-full.png",
+      "bytes": 398255,
+      "sha256": "029360be47830899b984fe3c16d2402c41cc57ee0c67c43700ff05783f7325b1"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/inspection-390.png",
+      "bytes": 346546,
+      "sha256": "78dd568b57f632cb83210e09ff186147dadc45da73115cb68f330aacd3be52c9"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/settled-1440.png",
+      "bytes": 1081117,
+      "sha256": "9b2e11b56c8637e4503442951c8e39b0bbb799ed7b3bc2cf0983d1e6b3b220a6"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/settled-320-full.png",
+      "bytes": 292122,
+      "sha256": "708869d9de889b9fcd0bbad332c8dde2af2777956c15a6c08c8ce9ba37f50037"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/settled-320.png",
+      "bytes": 240898,
+      "sha256": "32b4c50009b283528031e61972e705663ffaec0a7a219de760450b3da43f3d19"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/settled-390-full.png",
+      "bytes": 396762,
+      "sha256": "503f01df2eb8d0f6940f0b053fdf13396c8277728c02c375065a775d7d687537"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/settled-390.png",
+      "bytes": 346893,
+      "sha256": "fe787e65bd00411255c870a0c9b13d91f3fa53e0eaff12af8eede699bb0bee59"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/screenshots/state-board.png",
+      "bytes": 1681063,
+      "sha256": "98fb9f398381443dd8e3c793cf1ea2c6cf444072e4f526c6d6294d50cadae0ac"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/settled.html",
+      "bytes": 2399,
+      "sha256": "bf192ef12780d179e87ca742c311b3b5327042527c8a87e1cae85a249c71e0fd"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/style.css",
+      "bytes": 4661,
+      "sha256": "7012ffa890334aad080ee2f1f0676a27600bfe7ef7f3fbb691b91e7841e6d4fa"
+    },
+    {
+      "file": "design/phase1-v2-3-handoff/verify-v2-3.mjs",
+      "bytes": 2127,
+      "sha256": "7db68c2e423fd2f47ebec29e9048e287c4440e2d67450d2f1c018830195025a6"
+    },
+    {
+      "file": "docs/OPUS_5_5_VISUAL_DIRECTION_HANDOFF_V2_3.md",
+      "bytes": 14871,
+      "sha256": "ed72417eb6ffa793e242b589c7c0dcba1d6c52f186d61c0457ffed30bdad2287"
+    }
+  ]
+}
