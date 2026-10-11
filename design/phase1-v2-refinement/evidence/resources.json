@@ -1,0 +1,53 @@
+{
+  "scope": "Measured offline review files, not production performance",
+  "resources": [
+    {
+      "file": "arrival.html",
+      "bytes": 3997,
+      "gzipBytes": 1626,
+      "sha256": "d77ae0de66791db81d666fdfe729ab27393a7508f3d73c8abe9ee0ce0cd5e0cf"
+    },
+    {
+      "file": "style.css",
+      "bytes": 11985,
+      "gzipBytes": 3274,
+      "sha256": "7bb7c63283e487c1c477a1a8ba9c071629c62e2f2aca4a1c093621f822a6043d"
+    },
+    {
+      "file": "assets/signal-loom-desktop.webp",
+      "bytes": 108650,
+      "gzipBytes": 108703,
+      "sha256": "6f01631b9be26b79ef4361ec5921522ad246683caf23238e8f5f184fc47581bb"
+    },
+    {
+      "file": "assets/signal-loom-medium.webp",
+      "bytes": 71936,
+      "gzipBytes": 71979,
+      "sha256": "77562e41629a0218689601c07c6a5bc19b3ea5f1c90b2765415f111db9cd6636"
+    },
+    {
+      "file": "assets/signal-loom-mobile.webp",
+      "bytes": 41334,
+      "gzipBytes": 41367,
+      "sha256": "658d4904a5919cfe0543ed3060b88e8f4ba1c8f2a0c6e239fabf163c32488e67"
+    },
+    {
+      "file": "assets/defdef-resting.webp",
+      "bytes": 54176,
+      "gzipBytes": 54214,
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76"
+    },
+    {
+      "file": "assets/inter.woff2",
+      "bytes": 48256,
+      "gzipBytes": 48254,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "file": "assets/space-grotesk.woff2",
+      "bytes": 22288,
+      "gzipBytes": 22316,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    }
+  ]
+}

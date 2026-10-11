@@ -1,0 +1,15 @@
+{
+  "scope": "Generated environmental source only; excludes canonical character. Descriptive pixel-color proxy, not visual-quality or anomaly validation.",
+  "threshold": "HSV hue within 15 degrees of red; saturation >= 0.45; value >= 0.25",
+  "width": 1672,
+  "height": 941,
+  "pixels": 1912,
+  "fraction": 0.0012152398191885858,
+  "percent": 0.12152398191885859,
+  "bounds": {
+    "minX": 930,
+    "minY": 70,
+    "maxX": 1662,
+    "maxY": 938
+  }
+}

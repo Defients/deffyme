@@ -6,6 +6,8 @@ This is the active design authority for future work. Read the [roadmap](V2_IMPLE
 
 ## Authority and evidence
 
+> **Baseline / authorization clarification — October 10, 2026 (America/New_York):** The working-tree HEAD below records the original documentation pass, not the merged GitHub baseline. At Phase 1 start, the clean local branch `docs/defdef-gatehouse` was at `c0daffd1e21eb856d1f2a7273293ae2671ab6818`; GitHub `main` was verified at merge `23607891d543f8a495ac1b20c965be5ecc0ab0c3`. Both commits have tree `045631d22925ed5566cb563c4f4b26ce235c8a7c`. The latest owner instruction authorizes static isolated design material and small documentation corrections only. Frozen visual candidates are in [the review gallery](../design/phase1-v2-review/index.html), with [findings and decision updates](PHASE1_DESIGN_REVIEW.md). Original historical HEAD/status and Phase 0 authorization statements below are retained in their original context. Runtime, public routes, canonical assets and publication safeguards remain protected.
+
 1. The latest owner brief, **DEFFY.ME — CREATIVE DIRECTION V2 / The Creature of the Internet**, including its documentation-first stop, governs this revision.
 2. Existing owner-supplied identity, canonical character references, privacy boundaries and engineering safeguards remain authoritative wherever compatible.
 3. This specification supplies recommendations, clearly distinguished from confirmed requirements. Its numerical interaction limits are proposed design contracts, not measurements or lore.

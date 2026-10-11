@@ -1,0 +1,1051 @@
+[
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1223,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 569.59375,
+        "height": 108.578125,
+        "bottom": 1024.921875
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 569.609375,
+        "height": 108.578125,
+        "bottom": 1024.921875
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 569.609375,
+        "height": 108.578125,
+        "bottom": 1024.921875
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 1052,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 427.203125,
+        "height": 108.578125,
+        "bottom": 868.265625
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 427.203125,
+        "height": 108.578125,
+        "bottom": 868.265625
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 427.21875,
+        "height": 108.578125,
+        "bottom": 868.265625
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1327,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 350,
+        "height": 88,
+        "bottom": 822.75
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 350,
+        "height": 88,
+        "bottom": 910.75
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 350,
+        "height": 88,
+        "bottom": 998.75
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1401,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 288,
+        "height": 88,
+        "bottom": 848.078125
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 288,
+        "height": 102.1875,
+        "bottom": 950.265625
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 288,
+        "height": 101.1875,
+        "bottom": 1051.453125
+      }
+    ]
+  },
+  {
+    "page": "alternative.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1199,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 569.59375,
+        "height": 108.578125,
+        "bottom": 1001.15625
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 569.609375,
+        "height": 108.578125,
+        "bottom": 1001.15625
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 569.609375,
+        "height": 108.578125,
+        "bottom": 1001.15625
+      }
+    ]
+  },
+  {
+    "page": "alternative.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 1052,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 427.203125,
+        "height": 108.578125,
+        "bottom": 868.734375
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 427.203125,
+        "height": 108.578125,
+        "bottom": 868.734375
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 427.21875,
+        "height": 108.578125,
+        "bottom": 868.734375
+      }
+    ]
+  },
+  {
+    "page": "alternative.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1426,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 350,
+        "height": 88,
+        "bottom": 921.65625
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 350,
+        "height": 88,
+        "bottom": 1009.65625
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 350,
+        "height": 88,
+        "bottom": 1097.65625
+      }
+    ]
+  },
+  {
+    "page": "alternative.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1449,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": [
+      {
+        "text": "01\nMeet the Human\nDeffy, beyond the username.\n↗",
+        "href": "human.html",
+        "width": 288,
+        "height": 88,
+        "bottom": 896.703125
+      },
+      {
+        "text": "02\nProjects / The Forge\nGames, tools, ongoing experiments.\n↗",
+        "href": "https://deffy.me/forge/",
+        "width": 288,
+        "height": 102.1875,
+        "bottom": 998.890625
+      },
+      {
+        "text": "03\nWorlds / Astrizda\nA fictional continuum of my own making.\n↗",
+        "href": "https://deffy.me/astrizda/",
+        "width": 288,
+        "height": 101.1875,
+        "bottom": 1100.078125
+      }
+    ]
+  },
+  {
+    "page": "transition.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "transition.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 953,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "transition.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 941,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "transition.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 961,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1150,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 1098,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 2071,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 2292,
+    "fonts": "loaded",
+    "images": [],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 951,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1147,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1157,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 951,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1366,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1451,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 951,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1366,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1499,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 951,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1366,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1477,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 1131,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 951,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 1366,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "no JS; OS reduced motion",
+    "errors": [],
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 1472,
+    "fonts": "loaded",
+    "images": [
+      {
+        "src": "assets/defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "scripts": 0,
+    "animations": 0,
+    "routes": []
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "200% all text nodes",
+    "scrollWidth": 320,
+    "width": 320,
+    "height": 3280
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "200% all text nodes",
+    "scrollWidth": 320,
+    "width": 320,
+    "height": 2795
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "200% all text nodes",
+    "scrollWidth": 320,
+    "width": 320,
+    "height": 7591
+  },
+  {
+    "page": "current-source-G1",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "result": "fresh capture only; no performance or complete runtime recertification"
+  },
+  {
+    "page": "current-source-G1",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "result": "fresh capture only; no performance or complete runtime recertification"
+  },
+  {
+    "page": "current-source-G1",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "result": "fresh capture only; no performance or complete runtime recertification"
+  },
+  {
+    "page": "current-source-G1",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "result": "fresh capture only; no performance or complete runtime recertification"
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "scope": "Offline static design candidates only; not runtime or WCAG certification",
+  "checks": [
+    {
+      "page": "arrival",
+      "width": 320,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 13
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "arrival",
+      "mode": "keyboard first Tab",
+      "active": {
+        "text": "Skip to composition",
+        "href": "#main"
+      }
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 23
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 13
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 23
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 7
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 7
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 6
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 7
+        }
+      ],
+      "passRuleCount": 17
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 5
+        }
+      ],
+      "passRuleCount": 15
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodeCount": 5
+        }
+      ],
+      "passRuleCount": 15
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "violations": [],
+      "incomplete": [],
+      "passRuleCount": 15
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "violations": [],
+      "incomplete": [],
+      "passRuleCount": 15
+    },
+    {
+      "page": "arrival",
+      "mode": "art and fonts blocked; no JS",
+      "scrollWidth": 390,
+      "width": 390,
+      "identity": "Defdef operates the signal.Deffy made the place.",
+      "ordinaryLinks": [
+        "Human",
+        "Projects",
+        "Worlds"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "file": "arrival.html",
+      "bytes": 7461,
+      "gzipBytes": 2681,
+      "sha256": "83cbdc17dacb3b3400c2571c13d9dac3343cb2e3bec8571274fdff45bd493f29"
+    },
+    {
+      "file": "plates.css",
+      "bytes": 14746,
+      "gzipBytes": 3982,
+      "sha256": "42baca385f46da65bcd47c0903a2d3f46961d2cccb2b6eb442568918cd32f4c8"
+    },
+    {
+      "file": "assets/inter.woff2",
+      "bytes": 48256,
+      "gzipBytes": 48254,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "file": "assets/space-grotesk.woff2",
+      "bytes": 22288,
+      "gzipBytes": 22316,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    },
+    {
+      "file": "assets/defdef-resting.webp",
+      "bytes": 54176,
+      "gzipBytes": 54214,
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76"
+    }
+  ],
+  "preservation": {
+    "files": 54,
+    "differences": [],
+    "scope": "Source, scripts, tests, public assets, ignored canonical masters, package/configuration, original asset provenance and legacy baseline. Ignored caches/generated build files are outside this comparison."
+  }
+}

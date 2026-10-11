@@ -6,6 +6,8 @@
 
 This replaces incompatible future work in the Gatehouse G1–G3 and external M0–M9 design roadmaps. Already implemented G1 and M0–M2 remain baseline evidence, not tasks to repeat or authorization to expand. The latest owner brief authorizes Phase 0 documentation only.
 
+> **Phase 1 authorization update — October 10, 2026 (America/New_York):** The subsequent V2.1 owner brief authorizes isolated static compositions and documentation cleanup. [Phase 1 findings](PHASE1_DESIGN_REVIEW.md), [visual gallery](../design/phase1-v2-review/index.html) and [Opus handoff](OPUS_REVIEW_HANDOFF.md) record those review candidates. No executable signal prototype or runtime modification is authorized or implemented. The Phase 0-only sentence and final dependency status below are historical. Stop for owner and independent review; no Phase 2/3 work while that review is pending. Candidate production does not establish owner acceptance.
+
 ## Phase 0 — Direction and documentation
 
 - **Goal:** reconcile the current dirty working tree with V2 without changing experience code.

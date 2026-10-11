@@ -1,0 +1,4728 @@
+{
+  "scope": "Fresh supplementary pixel-backed text contrast and center-point occlusion checks of frozen original plates; not WCAG or complete visibility certification. Original files and historical evidence are unchanged.",
+  "method": "DPR1 viewport pixels, fonts loaded, matching scrolled text rectangles with text paint suppressed. Conservative minimum background contrast under full text rectangles. Center-point DOM hit stacks flag possible overlapping foreground elements for visual review.",
+  "results": [
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "You’ve entered",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "somewhere.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.32,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 10.14,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 13.72,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "✳ Defdef / at the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 1.43,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "The creature of the internet",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 7.08,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.85,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.46,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.85,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.46,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.82,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.19,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.8,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Look inside Defdef’s domain ↓",
+      "tag": "A",
+      "class": "discover",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "You’ve entered",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.53,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "somewhere.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.42,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.47,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 10.02,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 10.51,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 13.28,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "✳ Defdef / at the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 9.78,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Look inside Defdef’s domain ↓",
+      "tag": "A",
+      "class": "discover",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "You’ve entered",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.66,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "somewhere.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.19,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.2,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.59,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 10,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 12.7,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "✳ Defdef / at the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 9.51,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Look inside Defdef’s domain ↓",
+      "tag": "A",
+      "class": "discover",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Somewhere",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.66,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "out of the",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.62,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "ordinary.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.75,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 10.14,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 13.72,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "✳ Defdef / above the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 2.32,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "The creature of the internet",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 7.3,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.85,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.46,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.85,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.46,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.82,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.19,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.8,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Somewhere",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.7,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "out of the",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.52,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "ordinary.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.52,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.26,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.92,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 13.16,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "✳ Defdef / above the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 9.36,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Look inside Defdef’s domain ↓",
+      "tag": "A",
+      "class": "discover",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "A peculiar corner of the internet",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Somewhere",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.79,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "out of the",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.44,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "ordinary.",
+      "tag": "EM",
+      "class": "",
+      "minimumContrast": 9.44,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Games, code, music, and worlds",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.26,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "by Deffy Pyah Urz.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.68,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Defdef operates the signal.",
+      "tag": "STRONG",
+      "class": "",
+      "minimumContrast": 10.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Deffy made the place.",
+      "tag": "P",
+      "class": "identity-line",
+      "minimumContrast": 12.82,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "✳ Defdef / above the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 8.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "01",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Meet the Human",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Deffy, beyond the username.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "02",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Projects / The Forge",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Games, tools, ongoing experiments.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "03",
+      "tag": "SPAN",
+      "class": "num",
+      "minimumContrast": 10.64,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Worlds / Astrizda",
+      "tag": "B",
+      "class": "",
+      "minimumContrast": 15.15,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "A fictional continuum of my own making.",
+      "tag": "SMALL",
+      "class": "",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Play ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Listen ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Now ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Look inside Defdef’s domain ↓",
+      "tag": "A",
+      "class": "discover",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Take a door. Or follow the strange signal.",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Human · Projects · Worlds — always available",
+      "tag": "SPAN",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "alternative",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.16,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 14.56,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.09,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.06,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Inspect the signal",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "The broken fragment is contained beside his station.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Inspect the signal +",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 11.19,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.52,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 14.97,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.33,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.09,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Inspect the signal",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "The broken fragment is contained beside his station.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Inspect the signal +",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 8.91,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 1.11,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "✳ Defdef / signal operator",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 10.61,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.53,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.11,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.36,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Inspect the signal",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "The broken fragment is contained beside his station.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Inspect the signal +",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 8.84,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 5.36,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "✳ Defdef / signal operator",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 11.11,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-idle",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.16,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 14.56,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.09,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.06,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Signal examined",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "The quiet open state persists until the visitor closes the disclosure.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Close the signal −",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Proposed microcopy: “A stray fragment, folded back into place.”",
+      "tag": "P",
+      "class": "state-copy",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 2.51,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Frozen storyboard frame: SETTLED. No executable signal behavior. Full: one ≤300 ms response; Essential / OS reduce / no JS: immediate complete static open state.",
+      "tag": "DIV",
+      "class": "storyboard-tag",
+      "minimumContrast": 12.43,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.79,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.34,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.61,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Signal examined",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "The quiet open state persists until the visitor closes the disclosure.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Close the signal −",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Proposed microcopy: “A stray fragment, folded back into place.”",
+      "tag": "P",
+      "class": "state-copy",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 8.36,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 1.11,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "✳ Defdef / signature present",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 8,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Frozen storyboard frame: SETTLED. No executable signal behavior. Full: one ≤300 ms response; Essential / OS reduce / no JS: immediate complete static open state.",
+      "tag": "DIV",
+      "class": "storyboard-tag",
+      "minimumContrast": 12.43,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Defdef’s territory",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "The Creature",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "of the Internet.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 15.53,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "A small interruption.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "A very particular operator.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.59,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "✳ SIGNAL ARTIFACT · OPTIONAL DISCOVERY",
+      "tag": "P",
+      "class": "mark-label",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Signal examined",
+      "tag": "H2",
+      "class": "",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "The quiet open state persists until the visitor closes the disclosure.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 9.45,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Close the signal −",
+      "tag": "DIV",
+      "class": "action-plate",
+      "minimumContrast": 10.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Proposed microcopy: “A stray fragment, folded back into place.”",
+      "tag": "P",
+      "class": "state-copy",
+      "minimumContrast": 14.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 8.35,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 6.6,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "✳ Defdef / signature present",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 8,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Frozen storyboard frame: SETTLED. No executable signal behavior. Full: one ≤300 ms response; Essential / OS reduce / no JS: immediate complete static open state.",
+      "tag": "DIV",
+      "class": "storyboard-tag",
+      "minimumContrast": 12.43,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Beyond the signal",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.44,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "There’s a human",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.58,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "in here.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.8,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "The same mark. Less noise.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.96,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Games, questions, contradictions — and the person behind them.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Meet Deffy",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 10.09,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Composition study, not an additional required scene.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 8.9,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "The Human link navigates immediately; no interstitial or timed transition.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 8.73,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Beyond the signal",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.61,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "There’s a human",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.62,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "in here.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.76,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "The same mark. Less noise.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.71,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Games, questions, contradictions — and the person behind them.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 6.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Meet Deffy",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 9.72,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Composition study, not an additional required scene.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 7.65,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "The Human link navigates immediately; no interstitial or timed transition.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 7.88,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Beyond the signal",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.61,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "There’s a human",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.62,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "in here.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 12.76,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "The same mark. Less noise.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 9.56,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Games, questions, contradictions — and the person behind them.",
+      "tag": "P",
+      "class": "lead",
+      "minimumContrast": 6.74,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Meet Deffy",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 9.6,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Composition study, not an additional required scene.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 7.91,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "The Human link navigates immediately; no interstitial or timed transition.",
+      "tag": "P",
+      "class": "continuity",
+      "minimumContrast": 7.66,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "transition",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Still & complete",
+      "tag": "SPAN",
+      "class": "utility-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Beyond the username",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.83,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Hi.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "I’m Deffy.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "A lifelong PC gamer, self-taught creator, and person behind all the peculiar stuff.",
+      "tag": "P",
+      "class": "lede",
+      "minimumContrast": 10.27,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Deffy Pyah Urz · New Hampshire",
+      "tag": "P",
+      "class": "tiny-context",
+      "minimumContrast": 9.01,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "DIV",
+      "class": "margin-note",
+      "minimumContrast": 11.39,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "The experiments in the Forge",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "The fictional worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "I’m Deffy Pyah Urz, from New Hampshire. A lifelong PC gamer, aspiring streamer, self-taught creator, and someone who keeps asking whether the defaults really have to stay that way.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "World of Warcraft and League of Legends have been part of my life for years. So have computers, internet friendships, and the question “what if?” Sometimes that question becomes a game. Sometimes it becomes software, music, or an entire fictional universe.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "I like making things, but I don’t need every experiment to become useful, profitable, or particularly sensible. Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "I care about individuality, autonomy, meaningful relationships, and intellectual honesty. I’m curious about psychology, philosophy, artificial intelligence, and what people could become. I also like taking a ridiculous premise much too far.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "That doesn’t make me consistent. I’ve changed my mind, contradicted myself, and failed to live up to things I value. There’s room for that here, too.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Back to Defdef’s domain",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Beyond the username",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.83,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Hi.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "I’m Deffy.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "A lifelong PC gamer, self-taught creator, and person behind all the peculiar stuff.",
+      "tag": "P",
+      "class": "lede",
+      "minimumContrast": 10.27,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Deffy Pyah Urz · New Hampshire",
+      "tag": "P",
+      "class": "tiny-context",
+      "minimumContrast": 9.01,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "DIV",
+      "class": "margin-note",
+      "minimumContrast": 11.39,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "The experiments in the Forge",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "The fictional worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Back to Defdef’s domain",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "I’m Deffy Pyah Urz, from New Hampshire. A lifelong PC gamer, aspiring streamer, self-taught creator, and someone who keeps asking whether the defaults really have to stay that way.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "World of Warcraft and League of Legends have been part of my life for years. So have computers, internet friendships, and the question “what if?” Sometimes that question becomes a game. Sometimes it becomes software, music, or an entire fictional universe.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "I like making things, but I don’t need every experiment to become useful, profitable, or particularly sensible. Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "I care about individuality, autonomy, meaningful relationships, and intellectual honesty. I’m curious about psychology, philosophy, artificial intelligence, and what people could become. I also like taking a ridiculous premise much too far.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "That doesn’t make me consistent. I’ve changed my mind, contradicted myself, and failed to live up to things I value. There’s room for that here, too.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "deffy.me",
+      "tag": "A",
+      "class": "brand",
+      "minimumContrast": 15.95,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Human",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Projects",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 15.95,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Connect ↗",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Static review candidate · October 10, 2026 · No production approval",
+      "tag": "DIV",
+      "class": "review-label",
+      "minimumContrast": 11.1,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Beyond the username",
+      "tag": "P",
+      "class": "kicker",
+      "minimumContrast": 8.83,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Hi.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "I’m Deffy.",
+      "tag": "H1",
+      "class": "",
+      "minimumContrast": 13.78,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "A lifelong PC gamer, self-taught creator, and person behind all the peculiar stuff.",
+      "tag": "P",
+      "class": "lede",
+      "minimumContrast": 10.27,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Deffy Pyah Urz · New Hampshire",
+      "tag": "P",
+      "class": "tiny-context",
+      "minimumContrast": 9.01,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "DIV",
+      "class": "margin-note",
+      "minimumContrast": 11.39,
+      "required": 3,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "The experiments in the Forge",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "The fictional worlds",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Back to Defdef’s domain",
+      "tag": "A",
+      "class": "",
+      "minimumContrast": 9.67,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "I’m Deffy Pyah Urz, from New Hampshire. A lifelong PC gamer, aspiring streamer, self-taught creator, and someone who keeps asking whether the defaults really have to stay that way.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "World of Warcraft and League of Legends have been part of my life for years. So have computers, internet friendships, and the question “what if?” Sometimes that question becomes a game. Sometimes it becomes software, music, or an entire fictional universe.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "I like making things, but I don’t need every experiment to become useful, profitable, or particularly sensible. Sometimes an idea is just too ridiculous to leave alone.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "I care about individuality, autonomy, meaningful relationships, and intellectual honesty. I’m curious about psychology, philosophy, artificial intelligence, and what people could become. I also like taking a ridiculous premise much too far.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "That doesn’t make me consistent. I’ve changed my mind, contradicted myself, and failed to live up to things I value. There’s room for that here, too.",
+      "tag": "P",
+      "class": "",
+      "minimumContrast": 10.46,
+      "required": 4.5,
+      "pass": true
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "text": "Isolated design plate. New display copy is proposed; human prose comes from the existing Story page. External links point to existing destinations and do not preview redesigned pages.",
+      "tag": "DIV",
+      "class": "native-note",
+      "minimumContrast": 10.22,
+      "required": 4.5,
+      "pass": true
+    }
+  ],
+  "failures": [
+    {
+      "page": "arrival",
+      "width": 1440,
+      "text": "✳ Defdef / at the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 1.43,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "alternative",
+      "width": 1440,
+      "text": "✳ Defdef / above the signal",
+      "tag": "P",
+      "class": "host-caption",
+      "minimumContrast": 2.32,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-idle",
+      "width": 390,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 1.11,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "text": "Meet the human",
+      "tag": "A",
+      "class": "exit",
+      "minimumContrast": 2.51,
+      "required": 4.5,
+      "pass": false
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "text": "One station. One contained interruption.",
+      "tag": "P",
+      "class": "station-label",
+      "minimumContrast": 1.11,
+      "required": 4.5,
+      "pass": false
+    }
+  ],
+  "possibleOcclusions": [
+    {
+      "page": "alternative",
+      "width": 1440,
+      "scrollY": 152,
+      "text": "Look inside Defdef’s domain ↓",
+      "covered": [
+        {
+          "by": {},
+          "text": ""
+        }
+      ]
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "scrollY": 0,
+      "text": "✳ Defdef / signal operator",
+      "covered": [
+        {
+          "by": "copy",
+          "text": "Defdef’s territoryThe Creatureof the Internet.A small interruption.A very particular operator.✳ SIGN"
+        }
+      ]
+    },
+    {
+      "page": "domain-idle",
+      "width": 1440,
+      "scrollY": 0,
+      "text": "One station. One contained interruption.",
+      "covered": [
+        {
+          "by": "copy",
+          "text": "Defdef’s territoryThe Creatureof the Internet.A small interruption.A very particular operator.✳ SIGN"
+        }
+      ]
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "scrollY": 0,
+      "text": "✳ Defdef / signature present",
+      "covered": [
+        {
+          "by": "copy",
+          "text": "Defdef’s territoryThe Creatureof the Internet.A small interruption.A very particular operator.✳ SIGN"
+        }
+      ]
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "scrollY": 0,
+      "text": "One station. One contained interruption.",
+      "covered": [
+        {
+          "by": "copy",
+          "text": "Defdef’s territoryThe Creatureof the Internet.A small interruption.A very particular operator.✳ SIGN"
+        }
+      ]
+    }
+  ],
+  "axeIncomplete": [
+    {
+      "id": "color-contrast",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "nodes": [
+        {
+          "target": [
+            ".kicker"
+          ],
+          "html": "<p class=\"kicker\"><span class=\"sig\" aria-hidden=\"true\">✳</span> A peculiar corner of the internet</p>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.8pt (13px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            "h1"
+          ],
+          "html": "<h1>You’ve entered<br><em>somewhere.</em></h1>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "67.0pt (89.28px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "3:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            "em"
+          ],
+          "html": "<em>somewhere.</em>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "67.0pt (89.28px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "3:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".lead"
+          ],
+          "html": "<p class=\"lead\">Games, code, music, and worlds<br>by Deffy Pyah Urz.</p>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "14.3pt (19px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".identity-line"
+          ],
+          "html": "<p class=\"identity-line\"><strong>Defdef operates the signal.</strong><br>Deffy made the place.</p>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "11.3pt (15px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            "strong"
+          ],
+          "html": "<strong>Defdef operates the signal.</strong>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "11.3pt (15px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".host-caption"
+          ],
+          "html": "<p class=\"host-caption\">✳ Defdef / at the signal</p>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.8pt (13px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".station-label"
+          ],
+          "html": "<p class=\"station-label\">The creature of the internet</p>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.0pt (12px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"human.html\"] > .num"
+          ],
+          "html": "<span class=\"num\">01</span>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.0pt (12px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"human.html\"] > span:nth-child(2) > b"
+          ],
+          "html": "<b>Meet the Human</b>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "20.3pt (27px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "3:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"human.html\"] > span:nth-child(2) > small"
+          ],
+          "html": "<small>Deffy, beyond the username.</small>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"forge/\"] > .num"
+          ],
+          "html": "<span class=\"num\">02</span>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.0pt (12px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"forge/\"] > span:nth-child(2) > b"
+          ],
+          "html": "<b>Projects / The Forge</b>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "20.3pt (27px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "3:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"forge/\"] > span:nth-child(2) > small"
+          ],
+          "html": "<small>Games, tools, ongoing experiments.</small>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"astrizda/\"] > .num"
+          ],
+          "html": "<span class=\"num\">03</span>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.0pt (12px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"astrizda/\"] > span:nth-child(2) > b"
+          ],
+          "html": "<b>Worlds / Astrizda</b>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "20.3pt (27px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "3:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".route[href$=\"astrizda/\"] > span:nth-child(2) > small"
+          ],
+          "html": "<small>A fictional continuum of my own making.</small>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined because element contains an image node",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".secondary > a:nth-child(1)"
+          ],
+          "html": "<a href=\"https://deffy.me/forge/?category=Game\">Play ↗</a>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            "a[href$=\"music/\"]"
+          ],
+          "html": "<a href=\"https://deffy.me/music/\">Listen ↗</a>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            "a[href$=\"now/\"]"
+          ],
+          "html": "<a href=\"https://deffy.me/now/\">Now ↗</a>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".discover"
+          ],
+          "html": "<a class=\"discover\" href=\"domain-idle.html\">Look inside Defdef’s domain ↓</a>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "10.5pt (14px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".bottom-note > span:nth-child(1)"
+          ],
+          "html": "<span><i class=\"gold-rule\" aria-hidden=\"true\"></i>Take a door. Or follow the strange signal.</span>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.8pt (13px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        },
+        {
+          "target": [
+            ".bottom-note > span:nth-child(2)"
+          ],
+          "html": "<span>Human · Projects · Worlds — always available</span>",
+          "summary": "Fix any of the following:\n  Element's background color could not be determined due to a background gradient",
+          "checks": [
+            {
+              "id": "color-contrast",
+              "message": "Element's background color could not be determined due to a background gradient",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "9.8pt (13px)",
+                "fontWeight": "normal",
+                "messageKey": "bgGradient",
+                "expectedContrastRatio": "4.5:1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

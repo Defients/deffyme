@@ -2,6 +2,8 @@
 
 # Deployment gates — no deployment authorized
 
+> **Current clarification — October 10, 2026 (America/New_York):** [V2](CREATIVE_DIRECTION_V2.md) is the active design authority; the Gatehouse target below is a historical direction notice. G1 is implemented and its [local validation](GATEHOUSE_VALIDATION.md) exists. Phase 1 now prepares isolated visual review candidates, not runtime changes. V2 visual acceptance, independent Opus review, remaining mobile long-task investigation and all publication gates remain pending. No prior local PASS is production approval. The following October 10 notice is retained as historical evidence of its earlier documentation phase.
+
 > **October 10, 2026 direction update:** [Defdef’s Gatehouse](GATEHOUSE_SPEC.md) supersedes the old room/six-scene creative acceptance target. Existing publication gates below remain in force. The current task is documentation redirection; Gatehouse implementation and visual acceptance are pending. Historical M0–M2 PASS results do not clear Gatehouse browser, contrast, performance or owner-review gates. Review future Gatehouse art/OG metadata through the existing provenance and output allowlists before publication.
 
 **October 8, 2026 · America/New_York**

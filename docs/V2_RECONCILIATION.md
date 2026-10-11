@@ -4,6 +4,8 @@
 
 [Active creative direction](CREATIVE_DIRECTION_V2.md) · [Active roadmap](V2_IMPLEMENTATION_ROADMAP.md)
 
+> **Historical record clarification — October 10, 2026 (America/New_York):** This file records the original documentation-only pass and its then-dirty tree. At Phase 1 start the G1/V2 changes were committed locally at `c0daffd1e21eb856d1f2a7273293ae2671ab6818`, with a clean tracked worktree and a tree identical to merged GitHub baseline `23607891d543f8a495ac1b20c965be5ecc0ab0c3`. [Phase 1 findings](PHASE1_DESIGN_REVIEW.md) record fresh scope, static visual candidates and remaining review limits. The original assessment and evidence below remain historical; no old measurements are relabeled as current results.
+
 ## Executive assessment
 
 The working foundation is aligned with V2's engineering: Astro static output, compiled Tailwind, one selective React Forge filter, semantic native disclosures, denial-safe preferences, no-JS content, canonical optimized art, exact output ownership and private-public export controls. Existing preview metadata explicitly uses `noindex, nofollow`; output verification requires it. These are valuable implementation assets, not a reason to restart.

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/New_York",
+  "canonical": {
+    "status": "AVAILABLE / VISUALLY INSPECTED",
+    "original": "design/masters/default-defdef_final.png",
+    "copy": "assets/canonical-defdef.png",
+    "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef",
+    "transformation": "Byte-identical copy; no recolor, redraw, mirror or pose generation"
+  },
+  "runtimeDerivative": {
+    "original": "public/rebirth-assets/defdef-resting.webp",
+    "copy": "assets/defdef-resting.webp",
+    "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76",
+    "transformation": "Byte-identical copy of approved derivative"
+  },
+  "selectedConcept3": {
+    "status": "UNAVAILABLE IN INSPECTED INPUTS",
+    "searched": [
+      "Work-project design/masters and tracked design/doc assets",
+      "Legacy docs/rebirth/reference-assets and filename search of legacy docs/assets/images"
+    ],
+    "claim": "No visual match asserted; absence is bounded to inspected inputs"
+  },
+  "environment": {
+    "source": "Authored static SVG/CSS in generate.mjs",
+    "role": "Experimental review geometry; no runtime approval",
+    "generatedRasterArt": false
+  },
+  "publication": "Review package only. No asset promotion, public route, release output or publication authorization."
+}

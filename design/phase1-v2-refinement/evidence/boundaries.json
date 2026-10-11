@@ -1,0 +1,2328 @@
+{
+  "scope": "Static plates only. Keyboard focus traversal, state-frame consistency, full character bounds, art/font failure geometry, byte preservation and asset provenance. No executable artifact interaction or live-host/performance certification.",
+  "failures": [],
+  "keyboard": [
+    {
+      "page": "arrival",
+      "width": 1440,
+      "expected": 15,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 79.1875,
+          "y": 17.5,
+          "width": 142.25,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 577.21875,
+          "y": 17.5,
+          "width": 50.453125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 661.671875,
+          "y": 17.5,
+          "width": 57.609375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 753.28125,
+          "y": 17.5,
+          "width": 49.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 1285.703125,
+          "y": 17.5,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 80.1875,
+          "y": 716,
+          "width": 426.53125,
+          "height": 105,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 506.71875,
+          "y": 716,
+          "width": 426.546875,
+          "height": 105,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 933.265625,
+          "y": 716,
+          "width": 426.53125,
+          "height": 105,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 79.1875,
+          "y": 837,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 147.234375,
+          "y": 837,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 227,
+          "y": 837,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 1158.140625,
+          "y": 837,
+          "width": 202.671875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Meet Deffy ↗",
+          "href": "human.html",
+          "x": 609.3125,
+          "y": 722.375,
+          "width": 126.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 1233.609375,
+          "y": 862.9375,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "domain-settled",
+      "width": 1440,
+      "expected": 14,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 79.1875,
+          "y": 17.5,
+          "width": 142.25,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 577.21875,
+          "y": 17.5,
+          "width": 50.453125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 661.671875,
+          "y": 17.5,
+          "width": 57.609375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 753.28125,
+          "y": 17.5,
+          "width": 49.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 1285.703125,
+          "y": 17.5,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 80.1875,
+          "y": 745.90625,
+          "width": 426.53125,
+          "height": 91.09375,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 506.71875,
+          "y": 745.90625,
+          "width": 426.546875,
+          "height": 91.09375,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 933.265625,
+          "y": 745.90625,
+          "width": 426.53125,
+          "height": 91.09375,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 79.1875,
+          "y": 847,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 147.234375,
+          "y": 847,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 227,
+          "y": 847,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 1158.140625,
+          "y": 847,
+          "width": 202.671875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 1233.609375,
+          "y": 862.1875,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "human",
+      "width": 1440,
+      "expected": 10,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 79.1875,
+          "y": 17.5,
+          "width": 142.25,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 577.21875,
+          "y": 17.5,
+          "width": 50.453125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 661.671875,
+          "y": 17.5,
+          "width": 57.609375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 753.28125,
+          "y": 17.5,
+          "width": 49.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 1285.703125,
+          "y": 17.5,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The experiments in the Forge ↗",
+          "href": "https://deffy.me/forge/",
+          "x": 115.1875,
+          "y": 777.125,
+          "width": 472.953125,
+          "height": 59.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The fictional worlds ↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 115.1875,
+          "y": 836.171875,
+          "width": 472.953125,
+          "height": 59.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Back to Defdef’s domain ↗",
+          "href": "arrival.html",
+          "x": 115.1875,
+          "y": 841.21875,
+          "width": 472.953125,
+          "height": 59.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 1233.609375,
+          "y": 862.59375,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 1440,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "arrival",
+      "width": 390,
+      "expected": 15,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 20,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 20,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 92.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 170.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 294.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 21,
+          "y": 766.1875,
+          "width": 348,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 21,
+          "y": 809.1875,
+          "width": 348,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 21,
+          "y": 396.1875,
+          "width": 348,
+          "height": 108.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 20,
+          "y": 516.234375,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 84.046875,
+          "y": 516.234375,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 159.8125,
+          "y": 516.234375,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 20,
+          "y": 572.234375,
+          "width": 350,
+          "height": 54,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Meet Deffy ↗",
+          "href": "human.html",
+          "x": 22,
+          "y": 696.859375,
+          "width": 126.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 235.09375,
+          "y": 863.171875,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "domain-settled",
+      "width": 390,
+      "expected": 14,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 20,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 20,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 92.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 170.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 294.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 21,
+          "y": 404.46875,
+          "width": 348,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 21,
+          "y": 495.46875,
+          "width": 348,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 21,
+          "y": 586.46875,
+          "width": 348,
+          "height": 108.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 20,
+          "y": 706.515625,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 84.046875,
+          "y": 706.515625,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 159.8125,
+          "y": 706.515625,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 20,
+          "y": 762.515625,
+          "width": 350,
+          "height": 54,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 235.09375,
+          "y": 863.296875,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "human",
+      "width": 390,
+      "expected": 10,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 20,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 20,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 92.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 170.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 294.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The experiments in the Forge ↗",
+          "href": "https://deffy.me/forge/",
+          "x": 22,
+          "y": 725.6875,
+          "width": 346,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The fictional worlds ↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 22,
+          "y": 783.078125,
+          "width": 346,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Back to Defdef’s domain ↗",
+          "href": "arrival.html",
+          "x": 22,
+          "y": 840.46875,
+          "width": 346,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 235.09375,
+          "y": 863.890625,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 390,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "arrival",
+      "width": 320,
+      "expected": 15,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 16,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 16,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 86.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 162.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 228.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 17,
+          "y": 716.1875,
+          "width": 286,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 17,
+          "y": 796.1875,
+          "width": 286,
+          "height": 104.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 17,
+          "y": 398.234375,
+          "width": 286,
+          "height": 103.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 16,
+          "y": 513.28125,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 80.046875,
+          "y": 513.28125,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 155.8125,
+          "y": 513.28125,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 16,
+          "y": 569.28125,
+          "width": 288,
+          "height": 54,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Meet Deffy ↗",
+          "href": "human.html",
+          "x": 22,
+          "y": 675.953125,
+          "width": 126.640625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 88.890625,
+          "y": 863.703125,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "domain-settled",
+      "width": 320,
+      "expected": 14,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 16,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 16,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 86.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 162.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 228.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "01Meet the HumanDeffy, beyond the username.↗",
+          "href": "human.html",
+          "x": 17,
+          "y": 404.03125,
+          "width": 286,
+          "height": 91,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+          "href": "https://deffy.me/forge/",
+          "x": 17,
+          "y": 495.03125,
+          "width": 286,
+          "height": 104.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 17,
+          "y": 599.078125,
+          "width": 286,
+          "height": 103.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Play ↗",
+          "href": "https://deffy.me/forge/?category=Game",
+          "x": 16,
+          "y": 714.125,
+          "width": 42.046875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Listen ↗",
+          "href": "https://deffy.me/music/",
+          "x": 80.046875,
+          "y": 714.125,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Now ↗",
+          "href": "https://deffy.me/now/",
+          "x": 155.8125,
+          "y": 714.125,
+          "width": 44.34375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Look inside Defdef’s domain ↓",
+          "href": "domain-idle.html",
+          "x": 16,
+          "y": 770.125,
+          "width": 288,
+          "height": 54,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 88.890625,
+          "y": 863.4375,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        }
+      ]
+    },
+    {
+      "page": "human",
+      "width": 320,
+      "expected": 10,
+      "visited": [
+        {
+          "tag": "A",
+          "text": "Skip to composition",
+          "href": "#main",
+          "x": 20,
+          "y": 10,
+          "width": 190.328125,
+          "height": 48.046875,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "✳deffy.me",
+          "href": "index.html",
+          "x": 16,
+          "y": 12,
+          "width": 126.6875,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Human",
+          "href": "human.html",
+          "x": 16,
+          "y": 67,
+          "width": 47.09375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Projects",
+          "href": "https://deffy.me/forge/",
+          "x": 86.09375,
+          "y": 67,
+          "width": 53.765625,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Worlds",
+          "href": "https://deffy.me/astrizda/",
+          "x": 162.859375,
+          "y": 67,
+          "width": 46.328125,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Connect ↗",
+          "href": "https://deffy.me/connect/",
+          "x": 228.890625,
+          "y": 12,
+          "width": 75.109375,
+          "height": 44,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The experiments in the Forge ↗",
+          "href": "https://deffy.me/forge/",
+          "x": 16,
+          "y": 710.875,
+          "width": 288,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "The fictional worlds ↗",
+          "href": "https://deffy.me/astrizda/",
+          "x": 16,
+          "y": 768.265625,
+          "width": 288,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Back to Defdef’s domain ↗",
+          "href": "arrival.html",
+          "x": 16,
+          "y": 825.65625,
+          "width": 288,
+          "height": 57.390625,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        },
+        {
+          "tag": "A",
+          "text": "Review gallery",
+          "href": "index.html",
+          "x": 88.890625,
+          "y": 863.59375,
+          "width": 89.15625,
+          "height": 16,
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "viewportWidth": 320,
+          "viewportHeight": 900
+        }
+      ]
+    }
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "width": 1440,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 111,
+          "width": 662.390625,
+          "height": 623.90625
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".character": {
+          "x": 928.796875,
+          "y": 365.484375,
+          "width": 244.796875,
+          "height": 305.984375
+        },
+        ".route-band": {
+          "x": 79.1875,
+          "y": 744.90625,
+          "width": 1281.625,
+          "height": 93.09375
+        },
+        ".artifact": {
+          "x": 79.1875,
+          "y": 381.03125,
+          "width": 455,
+          "height": 286.75
+        }
+      }
+    },
+    {
+      "state": "action",
+      "width": 1440,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 111,
+          "width": 662.390625,
+          "height": 623.90625
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".character": {
+          "x": 928.796875,
+          "y": 365.484375,
+          "width": 244.796875,
+          "height": 305.984375
+        },
+        ".route-band": {
+          "x": 79.1875,
+          "y": 744.90625,
+          "width": 1281.625,
+          "height": 93.09375
+        },
+        ".artifact": {
+          "x": 79.1875,
+          "y": 381.03125,
+          "width": 455,
+          "height": 286.75
+        }
+      }
+    },
+    {
+      "state": "response",
+      "width": 1440,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 111,
+          "width": 662.390625,
+          "height": 623.90625
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".character": {
+          "x": 928.796875,
+          "y": 365.484375,
+          "width": 244.796875,
+          "height": 305.984375
+        },
+        ".route-band": {
+          "x": 79.1875,
+          "y": 744.90625,
+          "width": 1281.625,
+          "height": 93.09375
+        },
+        ".artifact": {
+          "x": 79.1875,
+          "y": 381.03125,
+          "width": 455,
+          "height": 286.75
+        }
+      }
+    },
+    {
+      "state": "ack",
+      "width": 1440,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 111,
+          "width": 662.390625,
+          "height": 623.90625
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".character": {
+          "x": 928.796875,
+          "y": 365.484375,
+          "width": 244.796875,
+          "height": 305.984375
+        },
+        ".route-band": {
+          "x": 79.1875,
+          "y": 744.90625,
+          "width": 1281.625,
+          "height": 93.09375
+        },
+        ".artifact": {
+          "x": 79.1875,
+          "y": 381.03125,
+          "width": 455,
+          "height": 286.75
+        }
+      }
+    },
+    {
+      "state": "settled",
+      "width": 1440,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 111,
+          "width": 662.390625,
+          "height": 623.90625
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 111,
+          "width": 1440,
+          "height": 789
+        },
+        ".character": {
+          "x": 928.796875,
+          "y": 365.484375,
+          "width": 244.796875,
+          "height": 305.984375
+        },
+        ".route-band": {
+          "x": 79.1875,
+          "y": 744.90625,
+          "width": 1281.625,
+          "height": 93.09375
+        },
+        ".artifact": {
+          "x": 79.1875,
+          "y": 381.03125,
+          "width": 455,
+          "height": 286.75
+        }
+      }
+    },
+    {
+      "state": "idle",
+      "width": 390,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 390,
+          "height": 1382.515625
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 436.125,
+          "width": 390,
+          "height": 290
+        },
+        ".character": {
+          "x": 113.09375,
+          "y": 476.609375,
+          "width": 132.59375,
+          "height": 165.734375
+        },
+        ".route-band": {
+          "x": 20,
+          "y": 1109.46875,
+          "width": 350,
+          "height": 292.046875
+        },
+        ".artifact": {
+          "x": 20,
+          "y": 746.125,
+          "width": 350,
+          "height": 304.25
+        }
+      }
+    },
+    {
+      "state": "action",
+      "width": 390,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 390,
+          "height": 1382.515625
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 436.125,
+          "width": 390,
+          "height": 290
+        },
+        ".character": {
+          "x": 113.09375,
+          "y": 476.609375,
+          "width": 132.59375,
+          "height": 165.734375
+        },
+        ".route-band": {
+          "x": 20,
+          "y": 1109.46875,
+          "width": 350,
+          "height": 292.046875
+        },
+        ".artifact": {
+          "x": 20,
+          "y": 746.125,
+          "width": 350,
+          "height": 304.25
+        }
+      }
+    },
+    {
+      "state": "response",
+      "width": 390,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 390,
+          "height": 1382.515625
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 436.125,
+          "width": 390,
+          "height": 290
+        },
+        ".character": {
+          "x": 113.09375,
+          "y": 476.609375,
+          "width": 132.59375,
+          "height": 165.734375
+        },
+        ".route-band": {
+          "x": 20,
+          "y": 1109.46875,
+          "width": 350,
+          "height": 292.046875
+        },
+        ".artifact": {
+          "x": 20,
+          "y": 746.125,
+          "width": 350,
+          "height": 304.25
+        }
+      }
+    },
+    {
+      "state": "ack",
+      "width": 390,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 390,
+          "height": 1382.515625
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 436.125,
+          "width": 390,
+          "height": 290
+        },
+        ".character": {
+          "x": 113.09375,
+          "y": 476.609375,
+          "width": 132.59375,
+          "height": 165.734375
+        },
+        ".route-band": {
+          "x": 20,
+          "y": 1109.46875,
+          "width": 350,
+          "height": 292.046875
+        },
+        ".artifact": {
+          "x": 20,
+          "y": 746.125,
+          "width": 350,
+          "height": 304.25
+        }
+      }
+    },
+    {
+      "state": "settled",
+      "width": 390,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 390,
+          "height": 1382.515625
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 436.125,
+          "width": 390,
+          "height": 290
+        },
+        ".character": {
+          "x": 113.09375,
+          "y": 476.609375,
+          "width": 132.59375,
+          "height": 165.734375
+        },
+        ".route-band": {
+          "x": 20,
+          "y": 1109.46875,
+          "width": 350,
+          "height": 292.046875
+        },
+        ".artifact": {
+          "x": 20,
+          "y": 746.125,
+          "width": 350,
+          "height": 304.25
+        }
+      }
+    },
+    {
+      "state": "idle",
+      "width": 320,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 320,
+          "height": 1389.125
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 423.9375,
+          "width": 320,
+          "height": 250
+        },
+        ".character": {
+          "x": 92.796875,
+          "y": 476.390625,
+          "width": 108.796875,
+          "height": 135.984375
+        },
+        ".route-band": {
+          "x": 16,
+          "y": 1108.03125,
+          "width": 288,
+          "height": 300.09375
+        },
+        ".artifact": {
+          "x": 16,
+          "y": 693.9375,
+          "width": 288,
+          "height": 355
+        }
+      }
+    },
+    {
+      "state": "action",
+      "width": 320,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 320,
+          "height": 1389.125
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 423.9375,
+          "width": 320,
+          "height": 250
+        },
+        ".character": {
+          "x": 92.796875,
+          "y": 476.390625,
+          "width": 108.796875,
+          "height": 135.984375
+        },
+        ".route-band": {
+          "x": 16,
+          "y": 1108.03125,
+          "width": 288,
+          "height": 300.09375
+        },
+        ".artifact": {
+          "x": 16,
+          "y": 693.9375,
+          "width": 288,
+          "height": 355
+        }
+      }
+    },
+    {
+      "state": "response",
+      "width": 320,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 320,
+          "height": 1389.125
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 423.9375,
+          "width": 320,
+          "height": 250
+        },
+        ".character": {
+          "x": 92.796875,
+          "y": 476.390625,
+          "width": 108.796875,
+          "height": 135.984375
+        },
+        ".route-band": {
+          "x": 16,
+          "y": 1108.03125,
+          "width": 288,
+          "height": 300.09375
+        },
+        ".artifact": {
+          "x": 16,
+          "y": 693.9375,
+          "width": 288,
+          "height": 355
+        }
+      }
+    },
+    {
+      "state": "ack",
+      "width": 320,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 320,
+          "height": 1389.125
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 423.9375,
+          "width": 320,
+          "height": 250
+        },
+        ".character": {
+          "x": 92.796875,
+          "y": 476.390625,
+          "width": 108.796875,
+          "height": 135.984375
+        },
+        ".route-band": {
+          "x": 16,
+          "y": 1108.03125,
+          "width": 288,
+          "height": 300.09375
+        },
+        ".artifact": {
+          "x": 16,
+          "y": 693.9375,
+          "width": 288,
+          "height": 355
+        }
+      }
+    },
+    {
+      "state": "settled",
+      "width": 320,
+      "metrics": {
+        ".stage": {
+          "x": 0,
+          "y": 160,
+          "width": 320,
+          "height": 1389.125
+        },
+        ".stage-copy": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        ".art-panel": {
+          "x": 0,
+          "y": 423.9375,
+          "width": 320,
+          "height": 250
+        },
+        ".character": {
+          "x": 92.796875,
+          "y": 476.390625,
+          "width": 108.796875,
+          "height": 135.984375
+        },
+        ".route-band": {
+          "x": 16,
+          "y": 1108.03125,
+          "width": 288,
+          "height": 300.09375
+        },
+        ".artifact": {
+          "x": 16,
+          "y": 693.9375,
+          "width": 288,
+          "height": 355
+        }
+      }
+    }
+  ],
+  "originalDiscoveryHitTest": [
+    {
+      "width": 1440,
+      "text": "Look inside Defdef’s domain ↓",
+      "centerHit": false,
+      "interceptor": "svg",
+      "rect": {
+        "x": 1158.140625,
+        "y": 855.734375,
+        "width": 202.671875,
+        "height": 44
+      }
+    },
+    {
+      "width": 390,
+      "text": "Look inside Defdef’s domain ↓",
+      "centerHit": true,
+      "interceptor": "A",
+      "rect": {
+        "x": 20,
+        "y": 647.03125,
+        "width": 350,
+        "height": 54
+      }
+    },
+    {
+      "width": 320,
+      "text": "Look inside Defdef’s domain ↓",
+      "centerHit": true,
+      "interceptor": "A",
+      "rect": {
+        "x": 16,
+        "y": 626.453125,
+        "width": 288,
+        "height": 54
+      }
+    }
+  ],
+  "fallbackMetrics": {
+    "width": 390,
+    "scrollWidth": 390,
+    "links": 15,
+    "visibleHeading": "A peculiar place.On purpose.",
+    "brokenImages": 2
+  },
+  "protectedSets": {
+    "frozenOriginal": {
+      "count": 95,
+      "differences": []
+    },
+    "protectedRuntime": {
+      "count": 54,
+      "differences": []
+    }
+  },
+  "originalArchiveSha256": "d33632ca81cd56c1ac359c50650bc47d48265e7dbf4136e7f4b4a71dde890f44",
+  "provenance": [
+    {
+      "file": "assets/signal-loom-source.png",
+      "sha256": "ecdb29159239e92d2fbf9aa3a69f7ae3ccd80d6e67610d983c82a615efe02dc4",
+      "bytes": 2185983,
+      "width": 1672,
+      "height": 941,
+      "decodedRgbaBytes": 6293408
+    },
+    {
+      "file": "assets/signal-loom-desktop.webp",
+      "sha256": "6f01631b9be26b79ef4361ec5921522ad246683caf23238e8f5f184fc47581bb",
+      "bytes": 108650,
+      "width": 1672,
+      "height": 941,
+      "decodedRgbaBytes": 6293408
+    },
+    {
+      "file": "assets/signal-loom-medium.webp",
+      "sha256": "77562e41629a0218689601c07c6a5bc19b3ea5f1c90b2765415f111db9cd6636",
+      "bytes": 71936,
+      "width": 1280,
+      "height": 720,
+      "decodedRgbaBytes": 3686400
+    },
+    {
+      "file": "assets/signal-loom-mobile.webp",
+      "sha256": "658d4904a5919cfe0543ed3060b88e8f4ba1c8f2a0c6e239fabf163c32488e67",
+      "bytes": 41334,
+      "width": 960,
+      "height": 540,
+      "decodedRgbaBytes": 2073600
+    },
+    {
+      "file": "assets/canonical-defdef.png",
+      "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef",
+      "bytes": 1851623,
+      "width": 1122,
+      "height": 1402,
+      "decodedRgbaBytes": 6292176
+    },
+    {
+      "file": "assets/defdef-resting.webp",
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76",
+      "bytes": 54176,
+      "width": 384,
+      "height": 480,
+      "decodedRgbaBytes": 737280
+    }
+  ]
+}

@@ -1,12 +1,16 @@
+> **GitHub review handoff — October 10, 2026 (America/New_York):** The owner has authorized publishing the complete Phase 1 review material to `main` for independent Opus review. Start with [the compact current review brief](docs/OPUS_REVIEW_BRIEF.md), [the Signal Loom refinement gallery](design/phase1-v2-refinement/index.html), and [clone verification / publication boundaries](docs/PHASE1_GITHUB_HANDOFF.md). Signal Loom is the strongest current review candidate; Signal Aperture and Crown Observatory remain challengers. Historical local/uncommitted descriptions below and in earlier reports predate this repository handoff. Runtime modification, production asset promotion and deployment remain unauthorized.
+
 > **Creative Direction V2 review — October 10, 2026 (America/New_York):** [Active design specification](docs/CREATIVE_DIRECTION_V2.md), [roadmap](docs/V2_IMPLEMENTATION_ROADMAP.md) and [reconciliation](docs/V2_RECONCILIATION.md) govern future work. The latest owner brief makes THE CREATURE OF THE INTERNET Defdef's distinct territory; incompatible Gatehouse persona-only anomaly and older room/six-scene recommendations are superseded. Existing G1 Gatehouse code and historical evidence remain preserved; V2 execution and acceptance are pending explicit approval. This revision changes documentation only and authorizes no scene changes or deployment.
 
-# Deffy.me — Defdef’s Gatehouse
+> **Phase 1 review update — October 10, 2026 (America/New_York):** V2 remains the active design authority. The owner now authorizes isolated visual-design review and narrowly scoped documentation maintenance; runtime modification and deployment remain prohibited. Start with [V2 direction](docs/CREATIVE_DIRECTION_V2.md), [V2 roadmap](docs/V2_IMPLEMENTATION_ROADMAP.md), [Phase 1 findings](docs/PHASE1_DESIGN_REVIEW.md) and [Opus review handoff](docs/OPUS_REVIEW_HANDOFF.md). Open [the offline visual gallery](design/phase1-v2-review/index.html) for review candidates. Earlier documentation-only notices describe their original phase.
+
+# Deffy.me — V2 direction / preserved G1 runtime
 
 **G1 static Gatehouse implemented · October 10, 2026 · America/New_York · Local preview**
 
-The selected redesign is **Defdef’s Gatehouse: Visitor → Defdef → Deffy’s world.** Defdef hosts and controls the homepage domain, directing visitors to the human story, projects, Astrizda, play, listen and now. A localized red root-layer rupture belongs to **THE CREATURE OF THE INTERNET**. The cozy-room opening, passive mascot role and prescribed six-scene/long-scroll homepage are superseded.
+The implemented baseline is **Defdef’s Gatehouse: Visitor → Defdef → Deffy’s world.** The following G1 description records that baseline, not final V2 visual approval. V2 assigns THE CREATURE OF THE INTERNET to Defdef’s distinct domain and requires review of the operator relationship before scene changes. The cozy-room opening, passive mascot role and prescribed six-scene/long-scroll homepage are superseded.
 
-**Start future work with the [Gatehouse specification](docs/GATEHOUSE_SPEC.md), [implementation handoff](docs/GATEHOUSE_ROADMAP.md), [repository audit](docs/REDIRECTION_AUDIT.md) and [future art brief](design/gatehouse-prompt.md).** These govern the new direction ahead of incompatible historical Phase 0/M0–M2 recommendations. G1 is implemented locally; [Gatehouse validation](docs/GATEHOUSE_VALIDATION.md) records the new evidence and remaining review limits.
+**Historical G1 handoff — October 10, 2026:** [Gatehouse specification](docs/GATEHOUSE_SPEC.md), [implementation handoff](docs/GATEHOUSE_ROADMAP.md), [repository audit](docs/REDIRECTION_AUDIT.md) and [art brief](design/gatehouse-prompt.md) explain the preserved implementation. Their incompatible future-design guidance is superseded by V2; they are not the next-work authority. [Gatehouse validation](docs/GATEHOUSE_VALIDATION.md) records historical evidence and remaining review limits.
 
 The current implementation is a compact Gatehouse entrance with a purposeful Defdef station, six direct destinations, a localized static Creature disclosure, and a calmer human introduction on Story. TypeScript, compiled Tailwind, semantic static HTML, and one selective React island on The Forge supply a reusable foundation.
 
@@ -63,14 +67,23 @@ Supporting routes (`/story/`, `/astrizda/`, `/forge/`, `/now/`, `/music/`, `/con
 | Approved runtime media | `public/rebirth-assets/`, `design/asset-provenance.json` |
 | Content export / output verification | `scripts/export-content.mjs`, `scripts/verify-output.mjs` |
 
-The historical implementation records seven supplied Defdef files in ignored local `design/masters/`; these masters are not in a fresh clone. Base and resting are byte-identical in the recorded provenance. Only the optimized resting derivative ships. Other supplied poses can support later bounded Gatehouse behavior; Defdef’s functional host role must be present in the initial static Gatehouse slice. The historical room derivatives remain preserved but are not requested by the Gatehouse. Its architectural scenery uses CSS; the only active image is canonical Defdef, also used for the summary share card. The old HeroScene/MeetScene files remain unused historical source. The existing room is an invented illustration. Its [historical generation prompt](design/room-prompt.md) and [asset provenance](design/asset-provenance.json) remain evidence of the current assets; [Gatehouse art guidance](design/gatehouse-prompt.md) governs future homepage art.
+The historical implementation records seven supplied Defdef files in ignored local `design/masters/`; these masters are not in a fresh clone. Base and resting are byte-identical in the recorded provenance. Only the optimized resting derivative ships. Other supplied poses can support later bounded behavior after review. The historical room derivatives remain preserved but are not requested by the Gatehouse. Its architectural scenery uses CSS; the only active image is canonical Defdef, also used for the summary share card. The old HeroScene/MeetScene files remain unused historical source. The existing room is an invented illustration. Its [historical generation prompt](design/room-prompt.md) and [asset provenance](design/asset-provenance.json) remain evidence of the current assets; [Gatehouse art guidance](design/gatehouse-prompt.md) is historical. V2 and the owner-reviewed Phase 1 candidates govern future art decisions. The Phase 1 package includes an unchanged canonical reference copy solely for design review, outside public output.
 
 Committed runtime WebP derivatives are sufficient to build after cloning. `npm run assets` is only needed to regenerate artwork and requires the ignored masters retained on this workstation. Source PNGs, generated validation artifacts, private authoring, and raw user documents do not belong in public output.
 
 ## Handoff
 
-- [Selected Gatehouse creative and UX specification](docs/GATEHOUSE_SPEC.md)
-- [Next implementation slice and acceptance plan](docs/GATEHOUSE_ROADMAP.md)
+- [Current compact Opus review brief](docs/OPUS_REVIEW_BRIEF.md)
+- [Signal Loom refinement gallery](design/phase1-v2-refinement/index.html)
+- [Pre-Opus refinement findings and limits](docs/PHASE1_REFINEMENT_RECORD.md)
+- [GitHub publication handoff and clone verification](docs/PHASE1_GITHUB_HANDOFF.md)
+- [Active V2 creative direction](docs/CREATIVE_DIRECTION_V2.md)
+- [Active V2 roadmap](docs/V2_IMPLEMENTATION_ROADMAP.md)
+- [Phase 1 findings, decision record and proposed slice](docs/PHASE1_DESIGN_REVIEW.md)
+- [Opus independent review handoff](docs/OPUS_REVIEW_HANDOFF.md)
+- [Offline visual review gallery](design/phase1-v2-review/index.html)
+- [Historical Gatehouse creative and UX specification](docs/GATEHOUSE_SPEC.md)
+- [Historical G1 implementation plan](docs/GATEHOUSE_ROADMAP.md)
 - [Redirection audit and preservation decisions](docs/REDIRECTION_AUDIT.md)
 - [G1 implementation and validation evidence](docs/GATEHOUSE_VALIDATION.md)
 - [Historical implementation and boundary decisions](docs/IMPLEMENTATION.md)
@@ -79,4 +92,4 @@ Committed runtime WebP derivatives are sufficient to build after cloning. `npm r
 - [Legacy baseline](docs/legacy-baseline.json)
 - [Inter license](docs/licenses/Inter-OFL.txt) and [Space Grotesk license](docs/licenses/Space-Grotesk-OFL.txt)
 
-**Current stop point: implemented G1 slice and local verification.** Owner visual acceptance, physical-device/screen-reader review and publication gates remain pending. The old M2 measurements stay historical. No deployment command, publisher integration, backend or live messages are included. Do not copy the entire `dist` directory over the existing site or run a delete-sync: future publication must respect exact ownership and preserve unrelated application files.
+**Current stop point: Phase 1 design candidates awaiting owner and independent Opus review; G1 runtime preserved.** No Phase 2/3 implementation may begin while review is pending. Owner visual acceptance, physical-device/screen-reader review and publication gates remain pending. G1/M2 measurements stay historical. No deployment command, publisher integration, backend or live messages are included. Do not copy the entire `dist` directory over the existing site or run a delete-sync: future publication must respect exact ownership and preserve unrelated application files.

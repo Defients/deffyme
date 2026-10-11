@@ -1,0 +1,4493 @@
+[
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1389,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 105,
+        "bottom": 1001,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 105,
+        "bottom": 1001,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 105,
+        "bottom": 1001,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1061,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1061,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1061,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1061,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Meet Deffy ↗",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 1255.375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1367.9375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1209,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 105,
+        "bottom": 821,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 105,
+        "bottom": 821,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 105,
+        "bottom": 821,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 881,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 881,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 881,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 881,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Meet Deffy ↗",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 1075.375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1187.9375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1420,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 164.09375,
+        "bottom": 945,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 164.09375,
+        "bottom": 945,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 164.09375,
+        "bottom": 945,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1005,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1005,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1005,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1005,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Meet Deffy ↗",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 1199.375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1398.8125,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1666,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 857.1875,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 948.1875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1056.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1112.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1112.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1112.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1178.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Meet Deffy ↗",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 1506.859375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1645.171875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "arrival.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1673,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 807.1875,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 911.234375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1014.28125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1070.28125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1070.28125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1070.28125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1136.28125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Meet Deffy ↗",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 1492.953125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1652.703125,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1199,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1177.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1019,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 997.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1187,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1165.625,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1768,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1201.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 1292.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1400.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1522.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1747.109375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-idle.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1819,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1200.03125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 1304.078125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1407.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1529.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1798.25,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1199,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1177.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1019,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 997.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1187,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1165.625,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1791,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1201.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 1292.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1400.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1522.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1770.203125,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-action.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1842,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1200.03125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 1304.078125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1407.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1529.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1821.34375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1199,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1177.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1042,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1020.1875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1210,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1188.71875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1814,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1201.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 1292.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1400.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1522.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1793.296875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-response.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1865,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1200.03125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 1304.078125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1407.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1529.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1844.4375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1199,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1177.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1019,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 997.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1187,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1165.625,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1791,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1201.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 1292.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1400.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1522.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1770.203125,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-ack.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1842,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1200.03125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 1304.078125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1407.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1529.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1821.34375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1199,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 1017,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1071,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1177.09375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1042,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-desktop.webp",
+        "loaded": true,
+        "width": 1672,
+        "height": 941
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 91.09375,
+        "bottom": 837,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 891,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1020.1875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1210,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-medium.webp",
+        "loaded": true,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 158.09375,
+        "bottom": 961,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 44,
+        "bottom": 1015,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1188.71875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 1814,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1201.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 91,
+        "bottom": 1292.46875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 108.046875,
+        "bottom": 1400.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1456.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1522.515625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1793.296875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "domain-settled.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 1865,
+    "scripts": 0,
+    "animations": 0,
+    "images": [
+      {
+        "source": "signal-loom-mobile.webp",
+        "loaded": true,
+        "width": 960,
+        "height": 540
+      },
+      {
+        "source": "defdef-resting.webp",
+        "loaded": true,
+        "width": 384,
+        "height": 480
+      }
+    ],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "01Meet the HumanDeffy, beyond the username.↗",
+        "href": "human.html",
+        "height": 91,
+        "bottom": 1200.03125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "02Projects / The ForgeGames, tools, ongoing experiments.↗",
+        "href": "https://deffy.me/forge/",
+        "height": 104.046875,
+        "bottom": 1304.078125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "03Worlds / AstrizdaA fictional continuum of my own making.↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 103.046875,
+        "bottom": 1407.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Play ↗",
+        "href": "https://deffy.me/forge/?category=Game",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Listen ↗",
+        "href": "https://deffy.me/music/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Now ↗",
+        "href": "https://deffy.me/now/",
+        "height": 44,
+        "bottom": 1463.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Look inside Defdef’s domain ↓",
+        "href": "domain-idle.html",
+        "height": 54,
+        "bottom": 1529.125,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1844.4375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "documentHeight": 1138,
+    "scripts": 0,
+    "animations": 0,
+    "images": [],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The experiments in the Forge ↗",
+        "href": "https://deffy.me/forge/",
+        "height": 59.046875,
+        "bottom": 875.234375,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The fictional worlds ↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 59.046875,
+        "bottom": 934.28125,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Back to Defdef’s domain ↗",
+        "href": "arrival.html",
+        "height": 59.046875,
+        "bottom": 993.328125,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1117,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "documentHeight": 1096,
+    "scripts": 0,
+    "animations": 0,
+    "images": [],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The experiments in the Forge ↗",
+        "href": "https://deffy.me/forge/",
+        "height": 59.046875,
+        "bottom": 836.171875,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The fictional worlds ↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 59.046875,
+        "bottom": 895.21875,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Back to Defdef’s domain ↗",
+        "href": "arrival.html",
+        "height": 59.046875,
+        "bottom": 954.265625,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1074.59375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 768,
+    "scrollWidth": 768,
+    "documentHeight": 1418,
+    "scripts": 0,
+    "animations": 0,
+    "images": [],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 61.5,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The experiments in the Forge ↗",
+        "href": "https://deffy.me/forge/",
+        "height": 59.046875,
+        "bottom": 886.734375,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The fictional worlds ↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 59.046875,
+        "bottom": 945.78125,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Back to Defdef’s domain ↗",
+        "href": "arrival.html",
+        "height": 59.046875,
+        "bottom": 1004.828125,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 1396.875,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 390,
+    "scrollWidth": 390,
+    "documentHeight": 2136,
+    "scripts": 0,
+    "animations": 0,
+    "images": [],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The experiments in the Forge ↗",
+        "href": "https://deffy.me/forge/",
+        "height": 57.390625,
+        "bottom": 783.078125,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The fictional worlds ↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 57.390625,
+        "bottom": 840.46875,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Back to Defdef’s domain ↗",
+        "href": "arrival.html",
+        "height": 57.390625,
+        "bottom": 897.859375,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 2115.890625,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "human.html",
+    "viewport": {
+      "width": 320,
+      "height": 844
+    },
+    "mode": "No JS; OS reduced motion",
+    "width": 320,
+    "scrollWidth": 320,
+    "documentHeight": 2369,
+    "scripts": 0,
+    "animations": 0,
+    "images": [],
+    "routes": [
+      {
+        "text": "✳deffy.me",
+        "href": "index.html",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Human",
+        "href": "human.html",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Projects",
+        "href": "https://deffy.me/forge/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Worlds",
+        "href": "https://deffy.me/astrizda/",
+        "height": 44,
+        "bottom": 111,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Connect ↗",
+        "href": "https://deffy.me/connect/",
+        "height": 44,
+        "bottom": 56,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The experiments in the Forge ↗",
+        "href": "https://deffy.me/forge/",
+        "height": 57.390625,
+        "bottom": 768.265625,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "The fictional worlds ↗",
+        "href": "https://deffy.me/astrizda/",
+        "height": 57.390625,
+        "bottom": 825.65625,
+        "centerInViewport": true,
+        "centerHit": true
+      },
+      {
+        "text": "Back to Defdef’s domain ↗",
+        "href": "arrival.html",
+        "height": 57.390625,
+        "bottom": 883.046875,
+        "centerInViewport": false,
+        "centerHit": false
+      },
+      {
+        "text": "Review gallery",
+        "href": "index.html",
+        "height": 16,
+        "bottom": 2348.59375,
+        "centerInViewport": false,
+        "centerHit": false
+      }
+    ]
+  },
+  {
+    "page": "arrival",
+    "mode": "200% computed text, all text nodes",
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 4091
+  },
+  {
+    "page": "domain-settled",
+    "mode": "200% computed text, all text nodes",
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 4502
+  },
+  {
+    "page": "human",
+    "mode": "200% computed text, all text nodes",
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 7887
+  }
+]

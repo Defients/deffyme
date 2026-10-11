@@ -1,0 +1,4 @@
+# Preserve exact evidence bytes across Windows/Linux review checkouts.
+# These rules apply only to isolated design material, never runtime source.
+design/phase1-v2-review/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+design/phase1-v2-refinement/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

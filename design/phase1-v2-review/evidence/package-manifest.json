@@ -1,0 +1,664 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/New_York",
+  "status": "REVIEW CANDIDATES / STOP FOR OWNER AND INDEPENDENT REVIEW",
+  "baseline": {
+    "branch": "docs/defdef-gatehouse",
+    "head": "c0daffd1e21eb856d1f2a7273293ae2671ab6818",
+    "githubMain": "23607891d543f8a495ac1b20c965be5ecc0ab0c3",
+    "tree": "045631d22925ed5566cb563c4f4b26ce235c8a7c"
+  },
+  "entries": [
+    {
+      "file": "design/phase1-v2-review/alternative.html",
+      "bytes": 7483,
+      "sha256": "0361d0cd621a3142916e5169c441b6241610d7e951238930a905b43c289a04c6"
+    },
+    {
+      "file": "design/phase1-v2-review/arrival.html",
+      "bytes": 7461,
+      "sha256": "83cbdc17dacb3b3400c2571c13d9dac3343cb2e3bec8571274fdff45bd493f29"
+    },
+    {
+      "file": "design/phase1-v2-review/assets/canonical-defdef.png",
+      "bytes": 1851623,
+      "sha256": "7822c57f333fc1a759431701439b4e4da3b4703b2cb1604c365e389e1c9cdfef",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "file": "design/phase1-v2-review/assets/defdef-resting.webp",
+      "bytes": 54176,
+      "sha256": "84b602005d3b02b22720b2f05888f25af81468256ca1db23f3e50dd705d7cf76"
+    },
+    {
+      "file": "design/phase1-v2-review/assets/Inter-OFL.txt",
+      "bytes": 4477,
+      "sha256": "3b0a5fca3d17942cde889069889dedbbbd075e9b599968c82a95f4d944e9b345"
+    },
+    {
+      "file": "design/phase1-v2-review/assets/inter.woff2",
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "file": "design/phase1-v2-review/assets/Space-Grotesk-OFL.txt",
+      "bytes": 4401,
+      "sha256": "18a4de52385f6b988782639d5d0cc1326e5a8c2de9a7f01d7b20d9aedcc60943"
+    },
+    {
+      "file": "design/phase1-v2-review/assets/space-grotesk.woff2",
+      "bytes": 22288,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    },
+    {
+      "file": "design/phase1-v2-review/domain-ack.html",
+      "bytes": 7012,
+      "sha256": "eaa6b386b4907713b83ddd9f8325951d4e2659fdce6cfe68e347a63ec6ca015f"
+    },
+    {
+      "file": "design/phase1-v2-review/domain-action.html",
+      "bytes": 6917,
+      "sha256": "8015e660de6430e905e1f8b9ba2b890fb42edc102147d61eafe778dbed00072b"
+    },
+    {
+      "file": "design/phase1-v2-review/domain-idle.html",
+      "bytes": 6521,
+      "sha256": "f4d71e5aa2eb77d9769e9a0ceaa57651f4ac4630503e0d34c0a11fbe2693fd92"
+    },
+    {
+      "file": "design/phase1-v2-review/domain-response.html",
+      "bytes": 6923,
+      "sha256": "6eb9765fee26779b5ed70df9d542cb7febcf127cb6243028e56650d9f20c2967"
+    },
+    {
+      "file": "design/phase1-v2-review/domain-settled.html",
+      "bytes": 7014,
+      "sha256": "89e0aa491785a39fe6e2b33db5c66de9472aa972af36c6c9f3f483ddb5cd0c8e"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/design-checks.json",
+      "bytes": 4245,
+      "sha256": "214b1c09ffe24d1c3b259b4ff0298de6493e93f272a26111da567619af86f939"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/original-asset-provenance.json",
+      "bytes": 2233,
+      "sha256": "6d22b38f7dbfc0fee50ebe76b9eada705539edb68c139bbfa3bbd70dfa66617c"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/preservation.json",
+      "bytes": 254,
+      "sha256": "2821917becbc953b0447c8300d5875bf7a490b725c3bdc8c2e33bcdc6e022f2a"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/protected-files.json",
+      "bytes": 11501,
+      "sha256": "7aed098ca794e96ca84e4ca92609ee736e5a7e149c0f39bb1b9574e991477967"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/reference-status.json",
+      "bytes": 1329,
+      "sha256": "76cb8e8d225564da7fca35df14c5c38065f5b8326cc96afbfd7939b7bf179b4d"
+    },
+    {
+      "file": "design/phase1-v2-review/evidence/render-checks.json",
+      "bytes": 22088,
+      "sha256": "0c295a45c40fed4b0730294db04f0d22a69273d61d03af60967db4700338439e"
+    },
+    {
+      "file": "design/phase1-v2-review/generate.mjs",
+      "bytes": 35875,
+      "sha256": "83c2edd65886bb17dab7ad3c6e60b5427cdd9905984e309c570922a9933123cc"
+    },
+    {
+      "file": "design/phase1-v2-review/human.html",
+      "bytes": 2944,
+      "sha256": "2d3a8c430cdf46fbaa7301cf5c6334f0d874f018567cca4d3d62a729bf863746"
+    },
+    {
+      "file": "design/phase1-v2-review/index.html",
+      "bytes": 5994,
+      "sha256": "49d6d58adc5362c191373f5efc5dfc8a9c2372404a2dac73608cd6ba2a7bf73f"
+    },
+    {
+      "file": "design/phase1-v2-review/package.mjs",
+      "bytes": 4178,
+      "sha256": "ca514a5d6e8afc2d53edb92f90991b80668219789b424a3eae7bb2e5bdfc37dd"
+    },
+    {
+      "file": "design/phase1-v2-review/plates.css",
+      "bytes": 14746,
+      "sha256": "42baca385f46da65bcd47c0903a2d3f46961d2cccb2b6eb442568918cd32f4c8"
+    },
+    {
+      "file": "design/phase1-v2-review/README.md",
+      "bytes": 2264,
+      "sha256": "e0bfd3f20f2c5fc62a1323044bfb0df9960b237d652824e4f71230b75c580a12"
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-1440.png",
+      "bytes": 473200,
+      "sha256": "f2bb5297f20e062b53085d98a7eb658b841ea0c6aab1d4fa9119e1b7c58987fb",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-1920.png",
+      "bytes": 702201,
+      "sha256": "339fc1a07281d42dc38d9a384ac02f148387c228e1010f7748dd2465f6f40efd",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-320-full.png",
+      "bytes": 189587,
+      "sha256": "de1535716308276bbe2cfab77be10a9ebdca093364cbb2740876233192aababb",
+      "width": 320,
+      "height": 1449
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-320.png",
+      "bytes": 145997,
+      "sha256": "5d1cc145ec1731741ddf8fd1e509b8cf6d3832e333d1a72ca1d3a734a0d239c6",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-390-full.png",
+      "bytes": 219779,
+      "sha256": "9f413226fc972edb6f3179e223f2b2c958f07ecf5dd2beb9dafea8d70e1fa4ba",
+      "width": 390,
+      "height": 1426
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-390.png",
+      "bytes": 172613,
+      "sha256": "0943ba68c09e96a3c3d344797b67abfe96b021094bbe60486973a7b63356e686",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/alternative-inspection.png",
+      "bytes": 473200,
+      "sha256": "f2bb5297f20e062b53085d98a7eb658b841ea0c6aab1d4fa9119e1b7c58987fb",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-1440.png",
+      "bytes": 464552,
+      "sha256": "20076adaa7cd695125b9b8999c30626a77bc861203b7641c12d5b1b6657b294a",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-1920.png",
+      "bytes": 700637,
+      "sha256": "351f45f2e247e04d247e194c3cbb21e0b39581add61fd4be7a20909431685344",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-320-full.png",
+      "bytes": 176092,
+      "sha256": "31b6b7cf78dc41171b06a026511e5f60e0a8b6a37f0b46470eda5ca095c89a6d",
+      "width": 320,
+      "height": 1401
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-320-keyboard.png",
+      "bytes": 141635,
+      "sha256": "ce186349e9774c66a98e4e513021bdb6980eba8b4361c4cf347dbd8a94a642a6",
+      "width": 320,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-320-text-200.png",
+      "bytes": 342877,
+      "sha256": "ea8c405024401e5842c660c24119a54f5c406be15bb4174636461992f9c3e235",
+      "width": 320,
+      "height": 3280
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-320.png",
+      "bytes": 136740,
+      "sha256": "5fa884c8f07b08eb551b4aebeb45ac1928b33418ed439b185b013d4391a7fc74",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-390-art-font-failure.png",
+      "bytes": 155139,
+      "sha256": "3feb5145234754e087ce2009a0ca09ca6617499da227db8289f48a9ce04659d7",
+      "width": 390,
+      "height": 1327
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-390-full.png",
+      "bytes": 208351,
+      "sha256": "8b51d6e7438eec68515e15a76fc396cbb9c78b28784eefb8daedf3d6d15a3121",
+      "width": 390,
+      "height": 1327
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/arrival-390.png",
+      "bytes": 167569,
+      "sha256": "2f9473fdad8e7b1ef1e5ee4ce3e3b1c75fd16a43ce30b07cb172ac3faa5a58b5",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/baseline-g1-1440.png",
+      "bytes": 449042,
+      "sha256": "21143dc3d1286cdf038d03bcea8c84b56c4bb4f652d92c71d4986c81f00bec40",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/baseline-g1-1920.png",
+      "bytes": 591292,
+      "sha256": "fe5bb61a6770bfd5546bc2bda13caa6039bd4643a55d66155b3a189950164d22",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/baseline-g1-320.png",
+      "bytes": 232937,
+      "sha256": "b36e2d22d936dbe26830d909ad7ae32fd2205292e558355c95e9ac718f4ab3d7",
+      "width": 320,
+      "height": 1905
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/baseline-g1-390.png",
+      "bytes": 243588,
+      "sha256": "e409988b891ae9ef34cab83b2356491f22a5723845fe0640a58e1d4b096bcb5d",
+      "width": 390,
+      "height": 1777
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/direction-comparison.png",
+      "bytes": 1128508,
+      "sha256": "9250ff366f0fe1e19c597f44687db970735540aea4013b78e8664cab5f53feec",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-1440.png",
+      "bytes": 495426,
+      "sha256": "fd459f496b769badf36fe65ffb3bcb4b0a3475901a0df7c62ba42266784067c5",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-1920.png",
+      "bytes": 725030,
+      "sha256": "9a6a4a010664d1090a20f054cd71807e54d99fd9b663e0c6bbc85d52d56df413",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-320-full.png",
+      "bytes": 191922,
+      "sha256": "f6e938a44faf72f772ef40086dfa082d855db3dc0e3c5d5309bcc3f443cfff8c",
+      "width": 320,
+      "height": 1477
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-320.png",
+      "bytes": 76526,
+      "sha256": "a52f4b339bf44cb9acb69cb01b3406edfb05549341f5bd08bdcb37ed32ced6f7",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-390-full.png",
+      "bytes": 220115,
+      "sha256": "4f563d760c4e13f115094b38df45b6cd45a10b307037568077ef5babba5d7a8a",
+      "width": 390,
+      "height": 1366
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-ack-390.png",
+      "bytes": 104554,
+      "sha256": "1c073877ba9986505317b1537d21fdd703c171cd739ef0fa803b4e94f21e86f3",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-1440.png",
+      "bytes": 499964,
+      "sha256": "27c208aa0e14d82625756759d30679a30a950887ec1c9b12162c714370b679b8",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-1920.png",
+      "bytes": 726955,
+      "sha256": "a2b925619db9cd6799c4c69a95fe54da825f75b71862cf2d4d9240dea9a8f2c7",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-320-full.png",
+      "bytes": 203792,
+      "sha256": "05bc696d3eed8422f28cfbad0397d3171a5b35ecd95779abad45bf4fa0b06851",
+      "width": 320,
+      "height": 1451
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-320.png",
+      "bytes": 86773,
+      "sha256": "6a0dfc8d33dd5764395ac33274eaf549270639542cc49d0f271169f296cb6f12",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-390-full.png",
+      "bytes": 225144,
+      "sha256": "445e684d4c17743b0482c1776c3713ab77ce12151423de775aa3e3a219bf3e91",
+      "width": 390,
+      "height": 1366
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-action-390.png",
+      "bytes": 103547,
+      "sha256": "0145b41dae5996de6d09988b359b5fc7a7b07b6f3c3475b67e7b68d725bc52f5",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-1440.png",
+      "bytes": 479260,
+      "sha256": "18d93d28cab02b508833275fb2c3dddf909f919237fbb504b33fc3323f7364a2",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-1920.png",
+      "bytes": 708802,
+      "sha256": "504222cb01194cd08664ceb132fedf830e257e3af9c768a5d2c961b03cb406a1",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-320-full.png",
+      "bytes": 174092,
+      "sha256": "f085fbac1a4dcc418db6b9ba787b32ca6f9664448f12d789e6ba46dc633c6fbc",
+      "width": 320,
+      "height": 1157
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-320-text-200.png",
+      "bytes": 310428,
+      "sha256": "37664147fe2d742b7e20154b003af50c4b1b8621ac51f04d449644507ae1758f",
+      "width": 320,
+      "height": 2795
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-320.png",
+      "bytes": 117514,
+      "sha256": "20768f0e865a2fce4bd772539173c7f127af1248dc161cdb7dc42a4000a3df3e",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-390-full.png",
+      "bytes": 200143,
+      "sha256": "e1a5217498d5ca213c32d877edbae13877792f99c72b56d62294a4e7f9b3744c",
+      "width": 390,
+      "height": 1147
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-idle-390.png",
+      "bytes": 125236,
+      "sha256": "cb580295edc7938d88cd6ebf6bb2a554e726c59a059e4b908142eb484607a67b",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-1440.png",
+      "bytes": 497696,
+      "sha256": "09e26166e996ac969689e744cbcd6c91261cd99dc991bf78140779faf79f09d5",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-1920.png",
+      "bytes": 726457,
+      "sha256": "93b4f8fc3e8fa96da85e8c305578a7643cdfc1b71c1cbdd82e4467b7b3cebbe3",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-320-full.png",
+      "bytes": 204841,
+      "sha256": "7a2e960b31cbc1dc9284bded5bdb07cc68f1cf035f5a1757e6b0c4c4c196a072",
+      "width": 320,
+      "height": 1499
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-320.png",
+      "bytes": 81400,
+      "sha256": "6ffed95a9097aadc036972157edb2fdef138524b59add4c96ae6cc5d8bef944e",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-390-full.png",
+      "bytes": 225045,
+      "sha256": "a4f04544e9cbdad9a5fa1a27ff40ba42540dea138880961eb3c782d4b1c04170",
+      "width": 390,
+      "height": 1366
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-response-390.png",
+      "bytes": 103101,
+      "sha256": "91720daf01dfbe616b2ee43123e665817f6b15f478946f8a23ff6bc381ffc1e6",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-1440.png",
+      "bytes": 494470,
+      "sha256": "70b1369a25ef93fd02267bfcc052d894b44a5a026a8894cae2fcc16682c24ef7",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-1920.png",
+      "bytes": 722619,
+      "sha256": "60b7a0d00fc49d3a37a202bb2eb3cf306b1cece102939e8f9e94e23f6ea66b72",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-320-full.png",
+      "bytes": 198364,
+      "sha256": "44c220419f99e0b32355bb09d8a8738ac706a889fe948354282838ad733fe039",
+      "width": 320,
+      "height": 1472
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-320.png",
+      "bytes": 85346,
+      "sha256": "d2d32fbc035930d9a915144f24e6f33f22780afe2673bbcd48f5470c8dc156bf",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-390-full.png",
+      "bytes": 218234,
+      "sha256": "19da49d83e4e82978441b7965cb940f3e90fbf181510e6285e626b06d2fc0fc4",
+      "width": 390,
+      "height": 1366
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/domain-settled-390.png",
+      "bytes": 102303,
+      "sha256": "c419f4da10cc2fe0a1748f9a076b25bc3241a88e46864cc4418885c3e743f402",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/experience-overview.png",
+      "bytes": 969411,
+      "sha256": "6b7d94a31fa876e54760f453230a44d63a0dc05483847d25257c6dcc21bc80ac",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-1440.png",
+      "bytes": 158492,
+      "sha256": "20c3a6b46b92750f959207f3040ef7ace6907f00da5b10d0e351e0d751dba33a",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-1920.png",
+      "bytes": 165106,
+      "sha256": "50822db97b8cd4dfe7a301f98e1a8f8acc6dddc753f0a7f4b4320329bd0b2860",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-320-full.png",
+      "bytes": 144590,
+      "sha256": "f2095d6854b1f630e644e41b38bc7b1665927157103cae8849fc7b7538cd4e1e",
+      "width": 320,
+      "height": 2292
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-320-text-200.png",
+      "bytes": 418515,
+      "sha256": "d8a009aebf38b8dd50b3bc30a79737665b349e371ad0805b83d9d5d1853e1e63",
+      "width": 320,
+      "height": 7591
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-320.png",
+      "bytes": 45915,
+      "sha256": "36d5162d1a091e93863c9cff3df5529f1cc334bbb50a07e72b772e844d4fe4f2",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-390-full.png",
+      "bytes": 164665,
+      "sha256": "8e939817c163a42700275181463e8ccff0012aeb2b589222840c9ff8aded3e2a",
+      "width": 390,
+      "height": 2071
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/human-390.png",
+      "bytes": 49101,
+      "sha256": "b9efcdf699059b78d681d91d9fd575d66a65417da3708c2a8a3ffa21e829c831",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/interaction-storyboard.png",
+      "bytes": 1491822,
+      "sha256": "6ec697fa1e77a8fef9021e63f39e6377c4bcc8ac4ac2010559f3106d1f7c9239",
+      "width": 1920,
+      "height": 1620
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-1440.png",
+      "bytes": 533642,
+      "sha256": "7008d52a497999d95b5916238e4e000f449732a5c7954c94719aee1340753a9e",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-1920.png",
+      "bytes": 754515,
+      "sha256": "9472b0dfabaad0b8934120efaa3210bdaf4773471053d5308995cafd8ff3092d",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-320-full.png",
+      "bytes": 181632,
+      "sha256": "5e4146ed91954c256a54208c47fe977a64d7b7493b15f833423d8595b285681e",
+      "width": 320,
+      "height": 961
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-320.png",
+      "bytes": 169663,
+      "sha256": "cda471426758726f3a5ae3d68e68528549a1a1aac4683023026b5d8b19dbfbfb",
+      "width": 320,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-390-full.png",
+      "bytes": 205070,
+      "sha256": "586c2707cf7c3f735587fac328e59b0ee476a595e3faa7ad3ff587b32ce65b53",
+      "width": 390,
+      "height": 941
+    },
+    {
+      "file": "design/phase1-v2-review/screenshots/transition-390.png",
+      "bytes": 194039,
+      "sha256": "a73c69885c42b70d9ca2032f67bc6aa5c7aabac586b66f3ecb7ac46b431f7fb1",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "design/phase1-v2-review/transition.html",
+      "bytes": 1773,
+      "sha256": "ad2e7e1fadcc44392d6359f1eff587301a9d3031814ac6387d1a2e11ba48a43e"
+    },
+    {
+      "file": "design/phase1-v2-review/verify.mjs",
+      "bytes": 3999,
+      "sha256": "217b23f158d6305fd3e7f176734b49081846c8026980decd878cd1a47fdaa4fc"
+    },
+    {
+      "file": "docs/CREATIVE_DIRECTION_V2.md",
+      "bytes": 23522,
+      "sha256": "e7a67ecbf79690f64d36d4e69571be70d3529d207181840533051ca16419c434"
+    },
+    {
+      "file": "docs/DEPLOYMENT_GATES.md",
+      "bytes": 5566,
+      "sha256": "9c45e5091827730928918282e4aa2d93ca16f3eff01829bd31cb815f9e21c608"
+    },
+    {
+      "file": "docs/GATEHOUSE_SPEC.md",
+      "bytes": 18000,
+      "sha256": "08d80c3dddeb62331c992296c5c2f56ba57f9c504e4e09b3ff9f53502c58d28b"
+    },
+    {
+      "file": "docs/GATEHOUSE_VALIDATION.md",
+      "bytes": 10199,
+      "sha256": "cad53e350171929b5e2f1499e9fc00746b582dc538a6d10bfe0b9189574dac5e"
+    },
+    {
+      "file": "docs/OPUS_REVIEW_HANDOFF.md",
+      "bytes": 8751,
+      "sha256": "faacf68070c9248fa5c8fdfdf309021ba20f2dd7cd92a085ac24dd2493c3a4f0"
+    },
+    {
+      "file": "docs/PHASE1_DESIGN_REVIEW.md",
+      "bytes": 21968,
+      "sha256": "f5ead1402610b5c1d2073a15fdae9c555c20544b20a037d1529b93f6357abd9d"
+    },
+    {
+      "file": "docs/V2_IMPLEMENTATION_ROADMAP.md",
+      "bytes": 9545,
+      "sha256": "82f11ceecb528cbfb67f671837ec89ecc0a746b00a9867a29cee74abbfe5e00f"
+    },
+    {
+      "file": "docs/V2_RECONCILIATION.md",
+      "bytes": 9997,
+      "sha256": "3852f3371ea678e4c3934bc4171cae1f0a227552c45c20ffa03fd74bd76b0bc2"
+    },
+    {
+      "file": "README.md",
+      "bytes": 9140,
+      "sha256": "957b7efdbd7f652eedd847bf2c908297424e017a262f58f8600e0025c75d60ee"
+    }
+  ]
+}
