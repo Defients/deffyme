@@ -1,0 +1,816 @@
+{
+  "scope": "Static review study only; not a runtime prototype or accessibility certification",
+  "notes": [
+    "Small-target flags \"Play ↗\" (42px) and \"Review gallery\" (inline) are inherited unchanged from the frozen Signal Loom plates.",
+    "The Astrizda inline link inside the verbatim approved paragraph is <44px tall; left as-is under the WCAG 2.5.8 inline exception, and underlined for link-in-text-block."
+  ],
+  "checks": [
+    {
+      "plate": "arrival",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8577
+    },
+    {
+      "plate": "arrival",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7719
+    },
+    {
+      "plate": "arrival",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8917
+    },
+    {
+      "plate": "arrival",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7719
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8649
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7836
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8917
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7719
+    },
+    {
+      "plate": "domain-action",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8649
+    },
+    {
+      "plate": "domain-action",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7836
+    },
+    {
+      "plate": "domain-action",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8917
+    },
+    {
+      "plate": "domain-action",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7719
+    },
+    {
+      "plate": "domain-response",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8207
+    },
+    {
+      "plate": "domain-response",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7438
+    },
+    {
+      "plate": "domain-response",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8457
+    },
+    {
+      "plate": "domain-response",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7321
+    },
+    {
+      "plate": "domain-ack",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8125
+    },
+    {
+      "plate": "domain-ack",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7363
+    },
+    {
+      "plate": "domain-ack",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8371
+    },
+    {
+      "plate": "domain-ack",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7247
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8125
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7363
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.8371
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Play ↗",
+          "w": 42,
+          "h": 44
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0.7247
+    },
+    {
+      "plate": "human",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Astrizda",
+          "w": 69.9,
+          "h": 21
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "human",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Astrizda",
+          "w": 69.9,
+          "h": 21
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "human",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Astrizda",
+          "w": 66,
+          "h": 20
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "human",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Astrizda",
+          "w": 66,
+          "h": 20
+        },
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "index",
+      "viewport": "1920x1080",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1920,
+      "scrollWidth": 1920,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "index",
+      "viewport": "1440x900",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 1440,
+      "scrollWidth": 1440,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "index",
+      "viewport": "390x844",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    },
+    {
+      "plate": "index",
+      "viewport": "320x800",
+      "mode": "No JS; OS reduced motion",
+      "innerWidth": 320,
+      "scrollWidth": 320,
+      "scripts": 0,
+      "animations": 0,
+      "imagesLoaded": true,
+      "smallTargets": [
+        {
+          "text": "Review gallery",
+          "w": 89.2,
+          "h": 16
+        }
+      ],
+      "redCoveragePct": 0
+    }
+  ],
+  "axe": [
+    {
+      "plate": "arrival",
+      "viewport": "1440x900",
+      "violations": 1,
+      "incomplete": 1,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "plate": "arrival",
+      "viewport": "320x800",
+      "violations": 1,
+      "incomplete": 0,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": []
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "1440x900",
+      "violations": 1,
+      "incomplete": 1,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "plate": "domain-idle",
+      "viewport": "320x800",
+      "violations": 1,
+      "incomplete": 0,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": []
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "1440x900",
+      "violations": 1,
+      "incomplete": 1,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "plate": "domain-settled",
+      "viewport": "320x800",
+      "violations": 1,
+      "incomplete": 0,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": []
+    },
+    {
+      "plate": "human",
+      "viewport": "1440x900",
+      "violations": 1,
+      "incomplete": 1,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": [
+        "color-contrast"
+      ]
+    },
+    {
+      "plate": "human",
+      "viewport": "320x800",
+      "violations": 1,
+      "incomplete": 0,
+      "violationIds": [
+        "region"
+      ],
+      "incompleteIds": []
+    }
+  ],
+  "failed": []
+}

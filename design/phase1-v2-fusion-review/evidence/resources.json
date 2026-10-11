@@ -1,0 +1,88 @@
+{
+  "budget": [
+    {
+      "file": "arrival.html",
+      "bytes": 5919,
+      "gzipBytes": 2036,
+      "kiB": 5.78,
+      "gzipKiB": 1.99
+    },
+    {
+      "file": "domain-settled.html",
+      "bytes": 6023,
+      "gzipBytes": 2321,
+      "kiB": 5.88,
+      "gzipKiB": 2.27
+    },
+    {
+      "file": "style.css",
+      "bytes": 13994,
+      "gzipBytes": 3868,
+      "kiB": 13.67,
+      "gzipKiB": 3.78
+    },
+    {
+      "file": "../phase1-v2-refinement/arrival.html",
+      "bytes": 3997,
+      "gzipBytes": 1626,
+      "kiB": 3.9,
+      "gzipKiB": 1.59
+    },
+    {
+      "file": "../phase1-v2-refinement/domain-settled.html",
+      "bytes": 4194,
+      "gzipBytes": 1795,
+      "kiB": 4.1,
+      "gzipKiB": 1.75
+    },
+    {
+      "file": "../phase1-v2-refinement/style.css",
+      "bytes": 11985,
+      "gzipBytes": 3274,
+      "kiB": 11.7,
+      "gzipKiB": 3.2
+    },
+    {
+      "file": "../phase1-v2-review/arrival.html",
+      "bytes": 7461,
+      "gzipBytes": 2681,
+      "kiB": 7.29,
+      "gzipKiB": 2.62
+    },
+    {
+      "file": "../phase1-v2-review/plates.css",
+      "bytes": 14746,
+      "gzipBytes": 3982,
+      "kiB": 14.4,
+      "gzipKiB": 3.89
+    }
+  ],
+  "assetBytes": [
+    {
+      "file": "../phase1-v2-refinement/assets/signal-loom-desktop.webp",
+      "bytes": 108650,
+      "kiB": 106.1
+    },
+    {
+      "file": "../phase1-v2-refinement/assets/signal-loom-mobile.webp",
+      "bytes": 41334,
+      "kiB": 40.37
+    },
+    {
+      "file": "../phase1-v2-refinement/assets/defdef-resting.webp",
+      "bytes": 54176,
+      "kiB": 52.91
+    }
+  ],
+  "overlay": {
+    "steppedLengthUnits": 470,
+    "strokeWidth": 2.5,
+    "polylineArea": 1175,
+    "tornRectArea": 212,
+    "dropoutColumnArea": 825,
+    "totalAreaUnits2": 2212,
+    "budgetUnits2": 9440,
+    "withinBudget": true,
+    "viewportPct": 0.141
+  }
+}
