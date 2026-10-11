@@ -1,4 +1,8 @@
+> **Creative Direction V2 review — October 10, 2026 (America/New_York):** [Active design specification](CREATIVE_DIRECTION_V2.md), [roadmap](V2_IMPLEMENTATION_ROADMAP.md) and [reconciliation](V2_RECONCILIATION.md) govern future work. The latest owner brief makes THE CREATURE OF THE INTERNET Defdef's distinct territory; incompatible Gatehouse persona-only anomaly and older room/six-scene recommendations are superseded. Existing G1 Gatehouse code and historical evidence remain preserved; V2 execution and acceptance are pending explicit approval. This revision changes documentation only and authorizes no scene changes or deployment.
+
 # M0–M2 implementation record
+
+> **Historical record — superseded homepage direction, October 10, 2026.** The [Gatehouse specification](GATEHOUSE_SPEC.md) and [roadmap](GATEHOUSE_ROADMAP.md) now govern future design and implementation. Cozy-room staging, six-scene expansion, passive cameo and deferred M5 host authority are retired. The account below preserves what was actually implemented on October 8; architecture, protected-route ownership, content approval and provenance remain useful. References to then-current user authorization describe that earlier phase, not the scope of today’s documentation change.
 
 **October 8, 2026 · America/New_York · local preview only**
 

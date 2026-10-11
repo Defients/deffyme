@@ -1,0 +1,39 @@
+---
+import Icon from '../components/Icon.astro';
+import { gatehouseDestinations } from '../content/site';
+---
+<section class="gatehouse" aria-labelledby="gatehouse-title">
+ <div class="gatehouse-architecture" aria-hidden="true"><span></span><span></span><span></span></div>
+ <div class="gatehouse-frame">
+  <div class="gatehouse-arrival">
+   <p class="eyebrow"><span class="tiny-spark" aria-hidden="true">✳</span> Deffy’s domain · Defdef’s front desk</p>
+   <h1 id="gatehouse-title">A peculiar place.<br/><span>A particular host.</span></h1>
+   <p class="gatehouse-intro">Games, code, music, and worlds by <strong>Deffy Pyah Urz.</strong><br class="wide-only"/> Defdef will show you around.</p>
+   <div class="gatehouse-actions">
+    <a class="button-primary" href="#directory">Request Access <Icon name="arrow"/></a>
+    <a class="button-text" href="#directory">Just Looking Around <Icon name="arrow" size={17}/></a>
+   </div>
+   <p class="arrival-note">No forms. No secret handshake. Choose a destination.</p>
+  </div>
+  <div class="gatehouse-station" aria-labelledby="station-title">
+   <div class="station-arch" aria-hidden="true"><div class="station-horizon"></div></div>
+   <div class="station-heading"><span class="station-rule" aria-hidden="true"></span><p id="station-title">The Gatehouse</p><span class="station-rule" aria-hidden="true"></span></div>
+   <img class="gatehouse-defdef" src="/rebirth-assets/defdef-resting.webp" alt="Defdef, the crowned violet-edged character hosting the front desk." width="384" height="480" fetchpriority="high" decoding="async"/>
+   <div class="station-counter"><span class="counter-inlay" aria-hidden="true"></span><p class="station-name">DEFDEF <span>/ HOST &amp; GATEKEEPER</span></p><p class="host-line">“Deffy made the place.<br/>I keep the doors in order.”</p><span class="counter-seal" aria-hidden="true">D</span></div>
+  </div>
+  <section class="gatehouse-directory" id="directory" tabindex="-1" aria-labelledby="directory-title">
+   <div class="directory-heading"><div><p class="eyebrow">Your next stop</p><h2 id="directory-title">Six doors. Your call.</h2></div><p>Defdef’s directory <span aria-hidden="true">↘</span></p></div>
+   <div class="destination-grid">
+    {gatehouseDestinations.map(destination=><a class="destination-link" id={destination.id==='human'?'meet':undefined} href={destination.href}>
+     <span class="destination-number" aria-hidden="true">{destination.number}</span>
+     <div><span class="destination-title">{destination.label}</span><span class="destination-description">{destination.description}</span></div>
+     <Icon name={destination.icon} size={22}/><span class="destination-arrow" aria-hidden="true">↗</span>
+    </a>)}
+   </div>
+  </section>
+  <details class="creature-seam" data-dismissable>
+   <summary><span class="seam-mark" aria-hidden="true"></span><span class="seam-label">THE CREATURE OF THE INTERNET</span><span class="seam-caption">Beneath the surface</span><Icon name="chevron" size={18}/></summary>
+   <div class="creature-content"><p>Defdef runs the front desk. <strong>The Creature of the Internet</strong> is Deffy’s persona. There’s a real person behind both.</p><a class="inline-link" href="/story/">Meet the human <Icon name="arrow" size={18}/></a></div>
+  </details>
+ </div>
+</section>

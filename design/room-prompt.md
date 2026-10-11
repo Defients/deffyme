@@ -1,4 +1,8 @@
+> **Creative Direction V2 review — October 10, 2026 (America/New_York):** [Active design specification](../docs/CREATIVE_DIRECTION_V2.md), [roadmap](../docs/V2_IMPLEMENTATION_ROADMAP.md) and [reconciliation](../docs/V2_RECONCILIATION.md) govern future work. The latest owner brief makes THE CREATURE OF THE INTERNET Defdef's distinct territory; incompatible Gatehouse persona-only anomaly and older room/six-scene recommendations are superseded. Existing G1 Gatehouse code and historical evidence remain preserved; V2 execution and acceptance are pending explicit approval. This revision changes documentation only and authorizes no scene changes or deployment.
+
 # Headquarters environment — local preview art
+
+> **Historical provenance — superseded for future homepage art on October 10, 2026.** Use [Defdef’s Gatehouse art brief](gatehouse-prompt.md) and [Gatehouse specification](../docs/GATEHOUSE_SPEC.md). Preserve this prompt and existing room asset hashes as evidence of the M0–M2 preview; do not regenerate the cozy room for the new homepage or label these derivatives as Gatehouse art.
 
 Built-in image_gen, October 8, 2026. Invented environment, not a photograph of Deffy's room. Source file: generated_images/01a11ca9-1bc4-7610-af8c-155e1a719ea3/exec-cc6ccb3c-5259-4fb8-901a-e980342d6a7a.png.
 
