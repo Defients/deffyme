@@ -1,0 +1,10 @@
+{
+  "version": "2.4",
+  "status": "PASS",
+  "baselineCommit": "8a24117d4e06818a48a09840a70db3a7de74e0d1",
+  "checkoutHead": "8a24117d4e06818a48a09840a70db3a7de74e0d1",
+  "baselineFilesVerified": 428,
+  "packageFilesVerified": 77,
+  "scope": "Byte preservation and additive handoff scope only; not runtime, accessibility, performance or visual acceptance",
+  "errors": []
+}

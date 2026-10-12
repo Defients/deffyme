@@ -1,0 +1,395 @@
+{
+  "version": "2.4",
+  "baselineCommit": "8a24117d4e06818a48a09840a70db3a7de74e0d1",
+  "exclusions": [
+    "handoff-manifest-v2-4.json",
+    "verification-v2-4.json"
+  ],
+  "files": [
+    {
+      "file": "design/phase1-v2-4-review/ack-pointing.html",
+      "bytes": 2686,
+      "sha256": "2eadd82a9be4a7230ce08439ded1ff707a9ac920836a6f2ded318b1d31590a60"
+    },
+    {
+      "file": "design/phase1-v2-4-review/ack-smug.html",
+      "bytes": 2690,
+      "sha256": "dcf20770b8dc4b8a143e2347c33e42ffc7826e14a279c27df3248c77b8f3f38f"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assemble.mjs",
+      "bytes": 3674,
+      "sha256": "d9343e5278ca78ff81229392b4590df7d645a7ce60b27f13f9cf83cc2f18d31b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/ack-selector-low-study.png",
+      "bytes": 2053866,
+      "sha256": "3d5ae4e0eb13975dc8aa5b5c52e4cb5ebc572988fcd02b4142c00879b3d12933"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/idle-first-study.png",
+      "bytes": 2209124,
+      "sha256": "98243bd78adb5802c0cb77de7131929c54f706dcf032d4e03a3333546d367d5b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/imagegen-prompts.json",
+      "bytes": 7769,
+      "sha256": "e4993faae6d89a164b10475548f0e97a005c96ea269df0363da98dfe1e0ec4ec"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-ack-desktop.webp",
+      "bytes": 175832,
+      "sha256": "984ffdc98ab0ed0534b56d0e2bc5c0b20ba6ce0831d298c660b56e50952eaf0b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-ack-mobile.webp",
+      "bytes": 110184,
+      "sha256": "81a056b1e10c076cd39608084b06034f6c398878aa9934ab4b31e8af2a5b71d4"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-ack-source.png",
+      "bytes": 1976453,
+      "sha256": "4c2937a8c19bc1f4608a66530824a910eb770f0963559b879e8c9989220f89d6"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-idle-desktop.webp",
+      "bytes": 185354,
+      "sha256": "30f318c4b1d9034c5427b0110dcf03bc2e789d58da6597886cc8da63e11cca4f"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-idle-mobile.webp",
+      "bytes": 117002,
+      "sha256": "7734723aac3182c54b2a49f0c18615c1cf053b0d0a3548ae0bab091334a43dc9"
+    },
+    {
+      "file": "design/phase1-v2-4-review/assets/loom-idle-source.png",
+      "bytes": 2096150,
+      "sha256": "f33fe9084971ff27cf1902fb195de20bd0e9ceafcd6d3807be5b98986b148e9b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/capture.mjs",
+      "bytes": 5323,
+      "sha256": "421acfc903d9082ffce86dd2819f0ca75ba48e36995d0a28e6ffacaca718cf30"
+    },
+    {
+      "file": "design/phase1-v2-4-review/evidence/baseline-v2-4.json",
+      "bytes": 80318,
+      "sha256": "f80a9a5e483f17e7bf2ed30cbd67421500d25f9c2fe919ed79ebf6b3c26cdabf"
+    },
+    {
+      "file": "design/phase1-v2-4-review/evidence/render-checks.json",
+      "bytes": 35690,
+      "sha256": "e36fd3181720421cb13894e9d0872e5312c3dd97ba1e1b067c39177524194760"
+    },
+    {
+      "file": "design/phase1-v2-4-review/evidence/resources-and-field.json",
+      "bytes": 3123,
+      "sha256": "d2d0191709c6737befa69d2d089406b949c6794148bf5af6cd8dc79eee96f277"
+    },
+    {
+      "file": "design/phase1-v2-4-review/idle.html",
+      "bytes": 2422,
+      "sha256": "d53c74ac2202d45b26fc50e5c7c90cd0b06dd50bfe8ba62963663a2bdc0f02d3"
+    },
+    {
+      "file": "design/phase1-v2-4-review/index.html",
+      "bytes": 3492,
+      "sha256": "3e09b28559e649d49a6ddf4423f9f53185e0b625b7145a42ca00174b07863f69"
+    },
+    {
+      "file": "design/phase1-v2-4-review/inspection.html",
+      "bytes": 2705,
+      "sha256": "62574bcfcd9563fbf6e6256fcd1f6bc5c8c76de5a7ae63d52a1a91a96bc40eb4"
+    },
+    {
+      "file": "design/phase1-v2-4-review/measure.mjs",
+      "bytes": 2457,
+      "sha256": "54890da050a352b256cdd688270ebeffd8166248d3f00d574b06daec251bc053"
+    },
+    {
+      "file": "design/phase1-v2-4-review/OWNER_SUPPLIED_REVIEW.md",
+      "bytes": 6224,
+      "sha256": "3a62219f471715d95f79536279d20ace8cc2867f1110155873db14849f4eb1ca"
+    },
+    {
+      "file": "design/phase1-v2-4-review/README.md",
+      "bytes": 2440,
+      "sha256": "16369c547bc66c8cd4d65e93a2904f420b4c72f59a2a069d5dc6318af04e2926"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-1440.png",
+      "bytes": 1075659,
+      "sha256": "526e8dafd10533c556e2394f50495d629e5c8df1947cb4f9a5104011d99763f0"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-1920.png",
+      "bytes": 1570693,
+      "sha256": "bb3a46c5eb81c3f9c764b44e21dcab1031d33b9c68d53b0fa881e73c2d35049d"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-320-full.png",
+      "bytes": 280552,
+      "sha256": "2326c11c1d21eb2781181769f2effe68b2e2d1b639137c5bf8bd24b1c12c12bc"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-320.png",
+      "bytes": 229951,
+      "sha256": "9abadd3a4299761060454d8b18fe39ce6b279b783605abec77d3b500d62cc5eb"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-390-full.png",
+      "bytes": 374102,
+      "sha256": "70c050c07fa58da6c5df75e243c7f4802ebe740dc8487acbf01d7ff39e63ca53"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-390.png",
+      "bytes": 322484,
+      "sha256": "d16665a509b9a168d145eef74ac2a6864a7f5fb2a334ba2e2eee42f73c548cc4"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-768-full.png",
+      "bytes": 687441,
+      "sha256": "75fe85d4b0cee65327b2f180106ca09dcc186b013783032c657a1d5e64a2bea3"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-768.png",
+      "bytes": 632179,
+      "sha256": "6d306255bac3aed9084a595832838f6241bb67b4d9d0d6e448a04093f50f0842"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-pointing-composite-1440.png",
+      "bytes": 1090650,
+      "sha256": "e0fc1aedc2c77d57b437e40765a147b8773a6a308bd30de047f94f4eecc2d648"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-1440.png",
+      "bytes": 1075212,
+      "sha256": "c992f76adf9ffba523ec530105ce8679561338f1cd0ca3f7c7be6ef930b6c544"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-1920.png",
+      "bytes": 1570204,
+      "sha256": "3df6653c92b987359477b2fa757936af3a036662d919079c9e1e015afce2a467"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-320-full.png",
+      "bytes": 281632,
+      "sha256": "fd3ec60f45ce29413d6f9aedd2398690957221d4bb4509d3427256707504cd74"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-320.png",
+      "bytes": 230007,
+      "sha256": "5b096db5c208c7122b44d142082a7017d19783dfd63bb9e2abff6c4d9323a941"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-390-full.png",
+      "bytes": 374810,
+      "sha256": "b8dc4ff9cbd90d54a83ea34733b2c4d81b32d0e615a0552a8d643ac7a6ac5685"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-390.png",
+      "bytes": 322244,
+      "sha256": "1d72ad80315988d74e3fa152c437f9d9dbbade1f171867ab08da00e31e155bd6"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-768-full.png",
+      "bytes": 687877,
+      "sha256": "ecb8cd0f3af3ee72178acd4197533d1d7a88bb30672165c3edd499903e24c0e1"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/ack-smug-768.png",
+      "bytes": 632127,
+      "sha256": "9d5696f399269c3d6465093ae80dde5e8544de643fff5217e861a02cdfa92a7b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-ack-pointing-1440.png",
+      "bytes": 3347377,
+      "sha256": "9869ad8e6d02426095ae01dfa7a4a2f9c088e112812be0cdd684ba90ed185648"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-ack-pointing-320.png",
+      "bytes": 652760,
+      "sha256": "60c4e6c3ed0759b74b2f02cc891b8cd38d6b21e057bc9f1ddbfa65f4168c9535"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-ack-pointing-390.png",
+      "bytes": 915102,
+      "sha256": "6f84818d564a3eef81e350d276f65b41f866e68903a32f9cf1dc3cdeb3f28887"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-idle-1440.png",
+      "bytes": 3400778,
+      "sha256": "ef4df16f94b8ff33a2ed4d6db518b5d97f6335a13fcea84d99e427250c959a00"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-idle-320.png",
+      "bytes": 655180,
+      "sha256": "90e99f6e87b0429ddae35f27aef468a5ef8fe843e28f4a59d89e619ab10d6e82"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/comparison-idle-390.png",
+      "bytes": 920294,
+      "sha256": "43be5496c6063c8acbceaa3e086252d7cc09ba5b25d120182127621d6f688dd0"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-1440.png",
+      "bytes": 1083306,
+      "sha256": "8a001ebc9138b4d4648267ef5c122d4f91a7db06fcba5269f091f5c9abfafa40"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-1920.png",
+      "bytes": 1580383,
+      "sha256": "e159b02065a6f60f900d06f2c853012bb39706b48536323e56f7679de7c39fa1"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-320-full.png",
+      "bytes": 267247,
+      "sha256": "c51eebacf75be6c04868afe17f5bc7a412569c0cb6f1250ff6123880b2a64443"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-320.png",
+      "bytes": 231666,
+      "sha256": "ff9182d7d5a3079a20db24b928223eec77333dc04b4e00adb2ef50b1e577d2dc"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-390-full.png",
+      "bytes": 363642,
+      "sha256": "d9dee8bc183ed3024f7dd243fbb526e2b957e8b7cec2a5a5d5f231cbdaa6d13a"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-390.png",
+      "bytes": 326687,
+      "sha256": "6affbc5df5ec2f5d26dd64a4a9a21a5d94e742c339f35cbf308db03958b4c7ff"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-768-full.png",
+      "bytes": 685449,
+      "sha256": "9a0b65d899c4bfd8c423c3e62cb5221adb0bc993f3be8c295c50dc43c98a3785"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-768.png",
+      "bytes": 645856,
+      "sha256": "f0ec57268b3caace012ca8055a3e51db2eeafcb4173c7dfd35123e56bba450f2"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-composite-1440.png",
+      "bytes": 1083306,
+      "sha256": "8a001ebc9138b4d4648267ef5c122d4f91a7db06fcba5269f091f5c9abfafa40"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/idle-first-composite-1440.png",
+      "bytes": 1084008,
+      "sha256": "da21368edbfa87cbe2d2d85f96dbfa9b64b9e9a98a8508cef77e80a7d04219c6"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-1440.png",
+      "bytes": 1074876,
+      "sha256": "efb559cb645005ed092aa5dda7f602234b31bf4984372131f75eedcbed969ec2"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-1920.png",
+      "bytes": 1568630,
+      "sha256": "f23875c085d99ad0befab2499aec787778d6b6c1b531b968550b6f65ce2ac2e7"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-320-full.png",
+      "bytes": 282928,
+      "sha256": "a31877e2cb5c0e07f89ab7cc3117d1ad9d464fa88f8c5fce70994bc87e0db8ae"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-320.png",
+      "bytes": 229934,
+      "sha256": "9a56fee5ecbb460e87010740acfde5a3b8521b92f3adbbc3fa62c3fe7d0c03ab"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-390-full.png",
+      "bytes": 375326,
+      "sha256": "37404ede393a9690c1307cdd69ccb53e9353bb1e7bba436563cee55b2a136bbf"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-390.png",
+      "bytes": 322176,
+      "sha256": "199f3d88f7bd36fcd22c5a8000418dc7c1e0cc9c9f4b87a5aacbf581c8161b20"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-768-full.png",
+      "bytes": 689161,
+      "sha256": "a9f724a7c097360449fb496d28143dd5efa6f8122106cbb4771f3b05b0c93681"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/inspection-768.png",
+      "bytes": 632088,
+      "sha256": "f8393a4d927fd6964c66cfbfc43ad5309ed38411784871b1df40dc1bf5e714c2"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-1440.png",
+      "bytes": 1074882,
+      "sha256": "00cb0f3bfa4edbbbeffe161723abf00aa2d56fdad7d3377b8af18acd97a4d674"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-1920.png",
+      "bytes": 1570422,
+      "sha256": "f0e4158bada7fd3466d9f01906038fe2618d3bfe130b307a0e0e48be155a4267"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-320-full.png",
+      "bytes": 281101,
+      "sha256": "1556bd6496c687d21f5e091a03359e7faf03a0e29a80ccd46de4505d2769de01"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-320.png",
+      "bytes": 229935,
+      "sha256": "d8f4cc4b652728c76928c50c93fb43cfe20c58cfa5cb5b2d0700684a2f98a89b"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-390-full.png",
+      "bytes": 373588,
+      "sha256": "aa6330f9fddcb6498d9cb8dc0626598bbe82131d8efc48845cbada0967d2738d"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-390.png",
+      "bytes": 322243,
+      "sha256": "3042cf51472350c45e0e0fd146df933deb7068ade8b93b5bab12bf15b1f715f2"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-768-full.png",
+      "bytes": 687458,
+      "sha256": "e08fb086a1341ea178ec43b8766cf0c98745366828e1a2c2b902bc4b75e51d58"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/settled-768.png",
+      "bytes": 631855,
+      "sha256": "487db88cb756d91a2af0e4c9144bc93bb93f04efa9fc39a201d0e70b25c9f508"
+    },
+    {
+      "file": "design/phase1-v2-4-review/screenshots/state-board.png",
+      "bytes": 1715706,
+      "sha256": "2a847a537ed366680237e14f71d2361fe63c2449469c446b3c20903f248f3854"
+    },
+    {
+      "file": "design/phase1-v2-4-review/settled.html",
+      "bytes": 2675,
+      "sha256": "2eaa4584069c6f029a83a3f4ccd655c5ae9fc43e638835e663e1962ac168c58d"
+    },
+    {
+      "file": "design/phase1-v2-4-review/style.css",
+      "bytes": 5556,
+      "sha256": "d1e3bfaa569b741bbc5906967efc9f221b37b2f6c3e13e96346c837a0a3f1933"
+    },
+    {
+      "file": "design/phase1-v2-4-review/verify-v2-4.mjs",
+      "bytes": 2127,
+      "sha256": "3bf4d8deb0cea0e4004c8bf7880c94482ab881485a9bead3e0f6ded4522ccb41"
+    },
+    {
+      "file": "design/phase1-v2-4-review/VIEWER_TEST.md",
+      "bytes": 1882,
+      "sha256": "f9f66f1f6505f74743ffb92fbf2acb1f4c8f6b883b98d65b19ab6d8a9f49a9e6"
+    },
+    {
+      "file": "docs/PHASE1_VISUAL_REFINEMENT_V2_4.md",
+      "bytes": 8741,
+      "sha256": "f8061fef69b2fc4bf5bd9f81391940c37fd827ce738b2123dfbc32324dbe17ac"
+    }
+  ]
+}

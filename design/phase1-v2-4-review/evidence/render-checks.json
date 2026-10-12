@@ -1,0 +1,1493 @@
+{
+  "scope": "Frozen review plates: layout/load, authored anchor bounds and pose dimensions. Not contrast, runtime interaction, usability or production certification.",
+  "checks": [
+    {
+      "state": "idle",
+      "width": 1920,
+      "height": 1080,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1920,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 1080.5625,
+        "right": 1920,
+        "bottom": 1192.75
+      },
+      "character": {
+        "x": 1389.109375,
+        "y": 461.5,
+        "width": 326.390625,
+        "height": 423.296875,
+        "right": 1715.5,
+        "bottom": 884.796875
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 879.984375,
+        "right": 1920,
+        "bottom": 992.171875
+      },
+      "routes": {
+        "x": 105.59375,
+        "y": 992.171875,
+        "width": 1708.8125,
+        "height": 84,
+        "right": 1814.40625,
+        "bottom": 1076.171875
+      },
+      "anomaly": {
+        "x": 1659.33014354067,
+        "y": 186.8278427205101,
+        "width": 223.92344497607655,
+        "height": 269.85354675876727
+      },
+      "receiver": {
+        "x": 1475.598086124402,
+        "y": 791.9887752391073,
+        "width": 76.9377990430622,
+        "height": 88.42009829968119
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "inspection",
+      "width": 1920,
+      "height": 1080,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1920,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 1080.5625,
+        "right": 1920,
+        "bottom": 1192.75
+      },
+      "character": {
+        "x": 1389.109375,
+        "y": 461.5,
+        "width": 326.390625,
+        "height": 423.296875,
+        "right": 1715.5,
+        "bottom": 884.796875
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 879.984375,
+        "right": 1920,
+        "bottom": 992.171875
+      },
+      "routes": {
+        "x": 105.59375,
+        "y": 992.171875,
+        "width": 1708.8125,
+        "height": 84,
+        "right": 1814.40625,
+        "bottom": 1076.171875
+      },
+      "anomaly": {
+        "x": 1659.33014354067,
+        "y": 186.8278427205101,
+        "width": 223.92344497607655,
+        "height": 269.85354675876727
+      },
+      "receiver": {
+        "x": 1475.598086124402,
+        "y": 791.9887752391073,
+        "width": 76.9377990430622,
+        "height": 88.42009829968119
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-pointing",
+      "width": 1920,
+      "height": 1080,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1920,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 1080.5625,
+        "right": 1920,
+        "bottom": 1192.75
+      },
+      "character": {
+        "x": 1389.109375,
+        "y": 461.484375,
+        "width": 332.4375,
+        "height": 423.3125,
+        "right": 1721.546875,
+        "bottom": 884.796875
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 879.984375,
+        "right": 1920,
+        "bottom": 992.171875
+      },
+      "routes": {
+        "x": 105.59375,
+        "y": 992.171875,
+        "width": 1708.8125,
+        "height": 84,
+        "right": 1814.40625,
+        "bottom": 1076.171875
+      },
+      "anomaly": {
+        "x": 1659.33014354067,
+        "y": 186.8278427205101,
+        "width": 223.92344497607655,
+        "height": 269.85354675876727
+      },
+      "receiver": {
+        "x": 1475.598086124402,
+        "y": 791.9887752391073,
+        "width": 76.9377990430622,
+        "height": 88.42009829968119
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-smug",
+      "width": 1920,
+      "height": 1080,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1920,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 1080.5625,
+        "right": 1920,
+        "bottom": 1192.75
+      },
+      "character": {
+        "x": 1389.109375,
+        "y": 461.484375,
+        "width": 321.5625,
+        "height": 423.3125,
+        "right": 1710.671875,
+        "bottom": 884.796875
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 879.984375,
+        "right": 1920,
+        "bottom": 992.171875
+      },
+      "routes": {
+        "x": 105.59375,
+        "y": 992.171875,
+        "width": 1708.8125,
+        "height": 84,
+        "right": 1814.40625,
+        "bottom": 1076.171875
+      },
+      "anomaly": {
+        "x": 1659.33014354067,
+        "y": 186.8278427205101,
+        "width": 223.92344497607655,
+        "height": 269.85354675876727
+      },
+      "receiver": {
+        "x": 1475.598086124402,
+        "y": 791.9887752391073,
+        "width": 76.9377990430622,
+        "height": 88.42009829968119
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "settled",
+      "width": 1920,
+      "height": 1080,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1920,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 1080.5625,
+        "right": 1920,
+        "bottom": 1192.75
+      },
+      "character": {
+        "x": 1389.109375,
+        "y": 461.484375,
+        "width": 332.4375,
+        "height": 423.3125,
+        "right": 1721.546875,
+        "bottom": 884.796875
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1920,
+        "height": 879.984375,
+        "right": 1920,
+        "bottom": 992.171875
+      },
+      "routes": {
+        "x": 105.59375,
+        "y": 992.171875,
+        "width": 1708.8125,
+        "height": 84,
+        "right": 1814.40625,
+        "bottom": 1076.171875
+      },
+      "anomaly": {
+        "x": 1659.33014354067,
+        "y": 186.8278427205101,
+        "width": 223.92344497607655,
+        "height": 269.85354675876727
+      },
+      "receiver": {
+        "x": 1475.598086124402,
+        "y": 791.9887752391073,
+        "width": 76.9377990430622,
+        "height": 88.42009829968119
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "idle",
+      "width": 1440,
+      "height": 900,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1440,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 810.421875,
+        "right": 1440,
+        "bottom": 922.609375
+      },
+      "character": {
+        "x": 1041.828125,
+        "y": 374.15625,
+        "width": 244.796875,
+        "height": 317.484375,
+        "right": 1286.625,
+        "bottom": 691.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 690,
+        "right": 1440,
+        "bottom": 802.1875
+      },
+      "routes": {
+        "x": 79.1875,
+        "y": 802.1875,
+        "width": 1281.625,
+        "height": 84,
+        "right": 1360.8125,
+        "bottom": 886.1875
+      },
+      "anomaly": {
+        "x": 1244.4976076555024,
+        "y": 168.16775704038258,
+        "width": 167.94258373205741,
+        "height": 202.39016006907545
+      },
+      "receiver": {
+        "x": 1106.6985645933014,
+        "y": 622.0384564293305,
+        "width": 57.70334928229665,
+        "height": 66.3150737247609
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "inspection",
+      "width": 1440,
+      "height": 900,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1440,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 810.421875,
+        "right": 1440,
+        "bottom": 922.609375
+      },
+      "character": {
+        "x": 1041.828125,
+        "y": 374.15625,
+        "width": 244.796875,
+        "height": 317.484375,
+        "right": 1286.625,
+        "bottom": 691.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 690,
+        "right": 1440,
+        "bottom": 802.1875
+      },
+      "routes": {
+        "x": 79.1875,
+        "y": 802.1875,
+        "width": 1281.625,
+        "height": 84,
+        "right": 1360.8125,
+        "bottom": 886.1875
+      },
+      "anomaly": {
+        "x": 1244.4976076555024,
+        "y": 168.16775704038258,
+        "width": 167.94258373205741,
+        "height": 202.39016006907545
+      },
+      "receiver": {
+        "x": 1106.6985645933014,
+        "y": 622.0384564293305,
+        "width": 57.70334928229665,
+        "height": 66.3150737247609
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-pointing",
+      "width": 1440,
+      "height": 900,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1440,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 810.421875,
+        "right": 1440,
+        "bottom": 922.609375
+      },
+      "character": {
+        "x": 1041.828125,
+        "y": 374.15625,
+        "width": 249.328125,
+        "height": 317.484375,
+        "right": 1291.15625,
+        "bottom": 691.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 690,
+        "right": 1440,
+        "bottom": 802.1875
+      },
+      "routes": {
+        "x": 79.1875,
+        "y": 802.1875,
+        "width": 1281.625,
+        "height": 84,
+        "right": 1360.8125,
+        "bottom": 886.1875
+      },
+      "anomaly": {
+        "x": 1244.4976076555024,
+        "y": 168.16775704038258,
+        "width": 167.94258373205741,
+        "height": 202.39016006907545
+      },
+      "receiver": {
+        "x": 1106.6985645933014,
+        "y": 622.0384564293305,
+        "width": 57.70334928229665,
+        "height": 66.3150737247609
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-smug",
+      "width": 1440,
+      "height": 900,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1440,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 810.421875,
+        "right": 1440,
+        "bottom": 922.609375
+      },
+      "character": {
+        "x": 1041.828125,
+        "y": 374.15625,
+        "width": 241.171875,
+        "height": 317.484375,
+        "right": 1283,
+        "bottom": 691.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 690,
+        "right": 1440,
+        "bottom": 802.1875
+      },
+      "routes": {
+        "x": 79.1875,
+        "y": 802.1875,
+        "width": 1281.625,
+        "height": 84,
+        "right": 1360.8125,
+        "bottom": 886.1875
+      },
+      "anomaly": {
+        "x": 1244.4976076555024,
+        "y": 168.16775704038258,
+        "width": 167.94258373205741,
+        "height": 202.39016006907545
+      },
+      "receiver": {
+        "x": 1106.6985645933014,
+        "y": 622.0384564293305,
+        "width": 57.70334928229665,
+        "height": 66.3150737247609
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "settled",
+      "width": 1440,
+      "height": 900,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 1440,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 810.421875,
+        "right": 1440,
+        "bottom": 922.609375
+      },
+      "character": {
+        "x": 1041.828125,
+        "y": 374.15625,
+        "width": 249.328125,
+        "height": 317.484375,
+        "right": 1291.15625,
+        "bottom": 691.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 112.1875,
+        "width": 1440,
+        "height": 690,
+        "right": 1440,
+        "bottom": 802.1875
+      },
+      "routes": {
+        "x": 79.1875,
+        "y": 802.1875,
+        "width": 1281.625,
+        "height": 84,
+        "right": 1360.8125,
+        "bottom": 886.1875
+      },
+      "anomaly": {
+        "x": 1244.4976076555024,
+        "y": 168.16775704038258,
+        "width": 167.94258373205741,
+        "height": 202.39016006907545
+      },
+      "receiver": {
+        "x": 1106.6985645933014,
+        "y": 622.0384564293305,
+        "width": 57.70334928229665,
+        "height": 66.3150737247609
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "idle",
+      "width": 768,
+      "height": 1024,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 768,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 84,
+        "y": 328.96875,
+        "width": 600,
+        "height": 645.0625,
+        "right": 684,
+        "bottom": 974.03125
+      },
+      "character": {
+        "x": 326.25,
+        "y": 565.140625,
+        "width": 220.90625,
+        "height": 286.5,
+        "right": 547.15625,
+        "bottom": 851.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 132,
+        "width": 768,
+        "height": 1056.8125,
+        "right": 768,
+        "bottom": 1188.8125
+      },
+      "routes": {
+        "x": 20,
+        "y": 1188.8125,
+        "width": 728,
+        "height": 248,
+        "right": 748,
+        "bottom": 1436.8125
+      },
+      "anomaly": {
+        "x": 507.57512953367876,
+        "y": 379.48569277108436,
+        "width": 151.5544041450777,
+        "height": 182.63817771084337
+      },
+      "receiver": {
+        "x": 383.22279792746116,
+        "y": 789.0615210843373,
+        "width": 52.07253886010363,
+        "height": 59.84314759036145
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "inspection",
+      "width": 768,
+      "height": 1024,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 768,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 84,
+        "y": 328.96875,
+        "width": 600,
+        "height": 645.0625,
+        "right": 684,
+        "bottom": 974.03125
+      },
+      "character": {
+        "x": 326.25,
+        "y": 565.140625,
+        "width": 220.90625,
+        "height": 286.5,
+        "right": 547.15625,
+        "bottom": 851.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 132,
+        "width": 768,
+        "height": 1186.59375,
+        "right": 768,
+        "bottom": 1318.59375
+      },
+      "routes": {
+        "x": 20,
+        "y": 1318.59375,
+        "width": 728,
+        "height": 248,
+        "right": 748,
+        "bottom": 1566.59375
+      },
+      "anomaly": {
+        "x": 507.57512953367876,
+        "y": 379.48569277108436,
+        "width": 151.5544041450777,
+        "height": 182.63817771084337
+      },
+      "receiver": {
+        "x": 383.22279792746116,
+        "y": 789.0615210843373,
+        "width": 52.07253886010363,
+        "height": 59.84314759036145
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-pointing",
+      "width": 768,
+      "height": 1024,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 768,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 84,
+        "y": 328.96875,
+        "width": 600,
+        "height": 645.0625,
+        "right": 684,
+        "bottom": 974.03125
+      },
+      "character": {
+        "x": 326.25,
+        "y": 565.140625,
+        "width": 225,
+        "height": 286.5,
+        "right": 551.25,
+        "bottom": 851.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 132,
+        "width": 768,
+        "height": 1186.59375,
+        "right": 768,
+        "bottom": 1318.59375
+      },
+      "routes": {
+        "x": 20,
+        "y": 1318.59375,
+        "width": 728,
+        "height": 248,
+        "right": 748,
+        "bottom": 1566.59375
+      },
+      "anomaly": {
+        "x": 507.57512953367876,
+        "y": 379.48569277108436,
+        "width": 151.5544041450777,
+        "height": 182.63817771084337
+      },
+      "receiver": {
+        "x": 383.22279792746116,
+        "y": 789.0615210843373,
+        "width": 52.07253886010363,
+        "height": 59.84314759036145
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-smug",
+      "width": 768,
+      "height": 1024,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 768,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 84,
+        "y": 328.96875,
+        "width": 600,
+        "height": 645.0625,
+        "right": 684,
+        "bottom": 974.03125
+      },
+      "character": {
+        "x": 326.25,
+        "y": 565.140625,
+        "width": 217.640625,
+        "height": 286.5,
+        "right": 543.890625,
+        "bottom": 851.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 132,
+        "width": 768,
+        "height": 1186.59375,
+        "right": 768,
+        "bottom": 1318.59375
+      },
+      "routes": {
+        "x": 20,
+        "y": 1318.59375,
+        "width": 728,
+        "height": 248,
+        "right": 748,
+        "bottom": 1566.59375
+      },
+      "anomaly": {
+        "x": 507.57512953367876,
+        "y": 379.48569277108436,
+        "width": 151.5544041450777,
+        "height": 182.63817771084337
+      },
+      "receiver": {
+        "x": 383.22279792746116,
+        "y": 789.0615210843373,
+        "width": 52.07253886010363,
+        "height": 59.84314759036145
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "settled",
+      "width": 768,
+      "height": 1024,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 768,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 84,
+        "y": 328.96875,
+        "width": 600,
+        "height": 645.0625,
+        "right": 684,
+        "bottom": 974.03125
+      },
+      "character": {
+        "x": 326.25,
+        "y": 565.140625,
+        "width": 225,
+        "height": 286.5,
+        "right": 551.25,
+        "bottom": 851.640625
+      },
+      "stage": {
+        "x": 0,
+        "y": 132,
+        "width": 768,
+        "height": 1186.59375,
+        "right": 768,
+        "bottom": 1318.59375
+      },
+      "routes": {
+        "x": 20,
+        "y": 1318.59375,
+        "width": 728,
+        "height": 248,
+        "right": 748,
+        "bottom": 1566.59375
+      },
+      "anomaly": {
+        "x": 507.57512953367876,
+        "y": 379.48569277108436,
+        "width": 151.5544041450777,
+        "height": 182.63817771084337
+      },
+      "receiver": {
+        "x": 383.22279792746116,
+        "y": 789.0615210843373,
+        "width": 52.07253886010363,
+        "height": 59.84314759036145
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "idle",
+      "width": 390,
+      "height": 844,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 390,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 390,
+        "height": 419.296875,
+        "right": 390,
+        "bottom": 788.265625
+      },
+      "character": {
+        "x": 157.453125,
+        "y": 522.5,
+        "width": 143.59375,
+        "height": 186.21875,
+        "right": 301.046875,
+        "bottom": 708.71875
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 390,
+        "height": 880.640625,
+        "right": 390,
+        "bottom": 1028.640625
+      },
+      "routes": {
+        "x": 20,
+        "y": 1028.640625,
+        "width": 350,
+        "height": 248,
+        "right": 370,
+        "bottom": 1276.640625
+      },
+      "anomaly": {
+        "x": 275.3238341968912,
+        "y": 401.80525225903614,
+        "width": 98.51036269430051,
+        "height": 118.71658509036145
+      },
+      "receiver": {
+        "x": 194.49481865284974,
+        "y": 668.0335090361446,
+        "width": 33.847150259067355,
+        "height": 38.89862575301205
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "inspection",
+      "width": 390,
+      "height": 844,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 390,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 390,
+        "height": 419.296875,
+        "right": 390,
+        "bottom": 788.265625
+      },
+      "character": {
+        "x": 157.453125,
+        "y": 522.5,
+        "width": 143.59375,
+        "height": 186.21875,
+        "right": 301.046875,
+        "bottom": 708.71875
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 390,
+        "height": 1038.015625,
+        "right": 390,
+        "bottom": 1186.015625
+      },
+      "routes": {
+        "x": 20,
+        "y": 1186.015625,
+        "width": 350,
+        "height": 248,
+        "right": 370,
+        "bottom": 1434.015625
+      },
+      "anomaly": {
+        "x": 275.3238341968912,
+        "y": 401.80525225903614,
+        "width": 98.51036269430051,
+        "height": 118.71658509036145
+      },
+      "receiver": {
+        "x": 194.49481865284974,
+        "y": 668.0335090361446,
+        "width": 33.847150259067355,
+        "height": 38.89862575301205
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-pointing",
+      "width": 390,
+      "height": 844,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 390,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 390,
+        "height": 419.296875,
+        "right": 390,
+        "bottom": 788.265625
+      },
+      "character": {
+        "x": 157.453125,
+        "y": 522.5,
+        "width": 146.25,
+        "height": 186.21875,
+        "right": 303.703125,
+        "bottom": 708.71875
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 390,
+        "height": 1038.015625,
+        "right": 390,
+        "bottom": 1186.015625
+      },
+      "routes": {
+        "x": 20,
+        "y": 1186.015625,
+        "width": 350,
+        "height": 248,
+        "right": 370,
+        "bottom": 1434.015625
+      },
+      "anomaly": {
+        "x": 275.3238341968912,
+        "y": 401.80525225903614,
+        "width": 98.51036269430051,
+        "height": 118.71658509036145
+      },
+      "receiver": {
+        "x": 194.49481865284974,
+        "y": 668.0335090361446,
+        "width": 33.847150259067355,
+        "height": 38.89862575301205
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-smug",
+      "width": 390,
+      "height": 844,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 390,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 390,
+        "height": 419.296875,
+        "right": 390,
+        "bottom": 788.265625
+      },
+      "character": {
+        "x": 157.453125,
+        "y": 522.5,
+        "width": 141.46875,
+        "height": 186.21875,
+        "right": 298.921875,
+        "bottom": 708.71875
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 390,
+        "height": 1038.015625,
+        "right": 390,
+        "bottom": 1186.015625
+      },
+      "routes": {
+        "x": 20,
+        "y": 1186.015625,
+        "width": 350,
+        "height": 248,
+        "right": 370,
+        "bottom": 1434.015625
+      },
+      "anomaly": {
+        "x": 275.3238341968912,
+        "y": 401.80525225903614,
+        "width": 98.51036269430051,
+        "height": 118.71658509036145
+      },
+      "receiver": {
+        "x": 194.49481865284974,
+        "y": 668.0335090361446,
+        "width": 33.847150259067355,
+        "height": 38.89862575301205
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "settled",
+      "width": 390,
+      "height": 844,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 390,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 390,
+        "height": 419.296875,
+        "right": 390,
+        "bottom": 788.265625
+      },
+      "character": {
+        "x": 157.453125,
+        "y": 522.5,
+        "width": 146.25,
+        "height": 186.21875,
+        "right": 303.703125,
+        "bottom": 708.71875
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 390,
+        "height": 1038.015625,
+        "right": 390,
+        "bottom": 1186.015625
+      },
+      "routes": {
+        "x": 20,
+        "y": 1186.015625,
+        "width": 350,
+        "height": 248,
+        "right": 370,
+        "bottom": 1434.015625
+      },
+      "anomaly": {
+        "x": 275.3238341968912,
+        "y": 401.80525225903614,
+        "width": 98.51036269430051,
+        "height": 118.71658509036145
+      },
+      "receiver": {
+        "x": 194.49481865284974,
+        "y": 668.0335090361446,
+        "width": 33.847150259067355,
+        "height": 38.89862575301205
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "idle",
+      "width": 320,
+      "height": 800,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 320,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 320,
+        "height": 344.03125,
+        "right": 320,
+        "bottom": 713
+      },
+      "character": {
+        "x": 129.203125,
+        "y": 494.953125,
+        "width": 117.8125,
+        "height": 152.78125,
+        "right": 247.015625,
+        "bottom": 647.734375
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 320,
+        "height": 805.375,
+        "right": 320,
+        "bottom": 953.375
+      },
+      "routes": {
+        "x": 20,
+        "y": 953.375,
+        "width": 280,
+        "height": 268.21875,
+        "right": 300,
+        "bottom": 1221.59375
+      },
+      "anomaly": {
+        "x": 225.90673575129534,
+        "y": 395.9109563253012,
+        "width": 80.82901554404145,
+        "height": 97.40643825301204
+      },
+      "receiver": {
+        "x": 159.58549222797927,
+        "y": 614.3500753012048,
+        "width": 27.7720207253886,
+        "height": 31.916152108433735
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "inspection",
+      "width": 320,
+      "height": 800,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 320,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 320,
+        "height": 344.03125,
+        "right": 320,
+        "bottom": 713
+      },
+      "character": {
+        "x": 129.203125,
+        "y": 494.953125,
+        "width": 117.8125,
+        "height": 152.78125,
+        "right": 247.015625,
+        "bottom": 647.734375
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 320,
+        "height": 1007.53125,
+        "right": 320,
+        "bottom": 1155.53125
+      },
+      "routes": {
+        "x": 20,
+        "y": 1155.53125,
+        "width": 280,
+        "height": 268.21875,
+        "right": 300,
+        "bottom": 1423.75
+      },
+      "anomaly": {
+        "x": 225.90673575129534,
+        "y": 395.9109563253012,
+        "width": 80.82901554404145,
+        "height": 97.40643825301204
+      },
+      "receiver": {
+        "x": 159.58549222797927,
+        "y": 614.3500753012048,
+        "width": 27.7720207253886,
+        "height": 31.916152108433735
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-pointing",
+      "width": 320,
+      "height": 800,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 320,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 320,
+        "height": 344.03125,
+        "right": 320,
+        "bottom": 713
+      },
+      "character": {
+        "x": 129.203125,
+        "y": 494.9375,
+        "width": 120,
+        "height": 152.796875,
+        "right": 249.203125,
+        "bottom": 647.734375
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 320,
+        "height": 1007.53125,
+        "right": 320,
+        "bottom": 1155.53125
+      },
+      "routes": {
+        "x": 20,
+        "y": 1155.53125,
+        "width": 280,
+        "height": 268.21875,
+        "right": 300,
+        "bottom": 1423.75
+      },
+      "anomaly": {
+        "x": 225.90673575129534,
+        "y": 395.9109563253012,
+        "width": 80.82901554404145,
+        "height": 97.40643825301204
+      },
+      "receiver": {
+        "x": 159.58549222797927,
+        "y": 614.3500753012048,
+        "width": 27.7720207253886,
+        "height": 31.916152108433735
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "ack-smug",
+      "width": 320,
+      "height": 800,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 320,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 320,
+        "height": 344.03125,
+        "right": 320,
+        "bottom": 713
+      },
+      "character": {
+        "x": 129.203125,
+        "y": 494.9375,
+        "width": 116.078125,
+        "height": 152.796875,
+        "right": 245.28125,
+        "bottom": 647.734375
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 320,
+        "height": 1007.53125,
+        "right": 320,
+        "bottom": 1155.53125
+      },
+      "routes": {
+        "x": 20,
+        "y": 1155.53125,
+        "width": 280,
+        "height": 268.21875,
+        "right": 300,
+        "bottom": 1423.75
+      },
+      "anomaly": {
+        "x": 225.90673575129534,
+        "y": 395.9109563253012,
+        "width": 80.82901554404145,
+        "height": 97.40643825301204
+      },
+      "receiver": {
+        "x": 159.58549222797927,
+        "y": 614.3500753012048,
+        "width": 27.7720207253886,
+        "height": 31.916152108433735
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    },
+    {
+      "state": "settled",
+      "width": 320,
+      "height": 800,
+      "mode": "JS disabled + OS reduced motion",
+      "scrollWidth": 320,
+      "imagesLoaded": true,
+      "scripts": 0,
+      "animations": 0,
+      "art": {
+        "x": 0,
+        "y": 368.96875,
+        "width": 320,
+        "height": 344.03125,
+        "right": 320,
+        "bottom": 713
+      },
+      "character": {
+        "x": 129.203125,
+        "y": 494.9375,
+        "width": 120,
+        "height": 152.796875,
+        "right": 249.203125,
+        "bottom": 647.734375
+      },
+      "stage": {
+        "x": 0,
+        "y": 148,
+        "width": 320,
+        "height": 1007.53125,
+        "right": 320,
+        "bottom": 1155.53125
+      },
+      "routes": {
+        "x": 20,
+        "y": 1155.53125,
+        "width": 280,
+        "height": 268.21875,
+        "right": 300,
+        "bottom": 1423.75
+      },
+      "anomaly": {
+        "x": 225.90673575129534,
+        "y": 395.9109563253012,
+        "width": 80.82901554404145,
+        "height": 97.40643825301204
+      },
+      "receiver": {
+        "x": 159.58549222797927,
+        "y": 614.3500753012048,
+        "width": 27.7720207253886,
+        "height": 31.916152108433735
+      },
+      "characterWithinArt": true,
+      "anomalyWithinArt": true,
+      "receiverWithinArt": true,
+      "smallTargets": []
+    }
+  ],
+  "comparisons": [
+    {
+      "width": 1920,
+      "poseHeightSpreadPx": 0.015625,
+      "poseBottomSpreadPx": 0,
+      "routeTopSpreadPx": 0,
+      "note": "Reserved stage height prevents disclosure-induced route movement."
+    },
+    {
+      "width": 1440,
+      "poseHeightSpreadPx": 0,
+      "poseBottomSpreadPx": 0,
+      "routeTopSpreadPx": 0,
+      "note": "Reserved stage height prevents disclosure-induced route movement."
+    },
+    {
+      "width": 768,
+      "poseHeightSpreadPx": 0,
+      "poseBottomSpreadPx": 0,
+      "routeTopSpreadPx": 129.78125,
+      "note": "Open transmission deliberately expands normal text flow below fixed art."
+    },
+    {
+      "width": 390,
+      "poseHeightSpreadPx": 0,
+      "poseBottomSpreadPx": 0,
+      "routeTopSpreadPx": 157.375,
+      "note": "Open transmission deliberately expands normal text flow below fixed art."
+    },
+    {
+      "width": 320,
+      "poseHeightSpreadPx": 0.015625,
+      "poseBottomSpreadPx": 0,
+      "routeTopSpreadPx": 202.15625,
+      "note": "Open transmission deliberately expands normal text flow below fixed art."
+    }
+  ],
+  "failures": []
+}

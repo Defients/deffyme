@@ -1,0 +1,113 @@
+{
+  "scope": "Offline derivative sizes and environment field statistics only. Review PNG character sources are not delivery assets. Multiple scene/pose residency must be counted in a future runtime slice.",
+  "localField": {
+    "scope": "Environment pixels behind head/mane bounding region before and after composition placement. Not a foreground/background contrast certification or pure same-location brightness edit.",
+    "before": {
+      "box": {
+        "left": 1078,
+        "top": 313,
+        "width": 284,
+        "height": 210
+      },
+      "meanLinearLuminance": 0.12853917009492694,
+      "meanHsvSaturation": 0.7184257802912244
+    },
+    "after": {
+      "box": {
+        "left": 1210,
+        "top": 303,
+        "width": 284,
+        "height": 210
+      },
+      "meanLinearLuminance": 0.03745908788090723,
+      "meanHsvSaturation": 0.7143105928936987
+    },
+    "luminanceReductionPct": 70.85784212451078,
+    "saturationReductionPct": 0.5728061979982879
+  },
+  "assets": [
+    {
+      "file": "assets/loom-idle-desktop.webp",
+      "bytes": 185354,
+      "KiB": 181.009765625,
+      "width": 1672,
+      "height": 941,
+      "decodedMiB": 6.001861572265625
+    },
+    {
+      "file": "assets/loom-idle-mobile.webp",
+      "bytes": 117002,
+      "KiB": 114.259765625,
+      "width": 772,
+      "height": 830,
+      "decodedMiB": 2.444305419921875
+    },
+    {
+      "file": "assets/loom-ack-desktop.webp",
+      "bytes": 175832,
+      "KiB": 171.7109375,
+      "width": 1672,
+      "height": 941,
+      "decodedMiB": 6.001861572265625
+    },
+    {
+      "file": "assets/loom-ack-mobile.webp",
+      "bytes": 110184,
+      "KiB": 107.6015625,
+      "width": 772,
+      "height": 830,
+      "decodedMiB": 2.444305419921875
+    }
+  ],
+  "poses": [
+    {
+      "file": "assets/canonical-defdef-delivery-trial.webp",
+      "bytes": 64612,
+      "KiB": 63.1,
+      "width": 370,
+      "height": 480,
+      "decodedMiB": 0.68,
+      "sha256": "18cd316ded6b33dd6a76cacebb92fabc95ba3da1b75b0f478eb61668777b10da"
+    },
+    {
+      "file": "assets/Defdef-smug-delivery-trial.webp",
+      "bytes": 67488,
+      "KiB": 65.91,
+      "width": 365,
+      "height": 480,
+      "decodedMiB": 0.67,
+      "sha256": "23598c63222cbbb6f9e8e63ffc02dd4ba901b97f3c54d488a7cc6a52b72bb974"
+    },
+    {
+      "file": "assets/Defdef-pointing-delivery-trial.webp",
+      "bytes": 65770,
+      "KiB": 64.23,
+      "width": 377,
+      "height": 480,
+      "decodedMiB": 0.69,
+      "sha256": "893ed2b1fc54d447eba8dde3112d6fb304adf614c7ca7569ea67ac39dda4fc77"
+    }
+  ],
+  "pairs": [
+    {
+      "file": "assets/loom-idle-desktop.webp",
+      "oneEnvironmentAndLargestPoseKiB": 246.919765625,
+      "limitKiB": 500
+    },
+    {
+      "file": "assets/loom-idle-mobile.webp",
+      "oneEnvironmentAndLargestPoseKiB": 180.169765625,
+      "limitKiB": 300
+    },
+    {
+      "file": "assets/loom-ack-desktop.webp",
+      "oneEnvironmentAndLargestPoseKiB": 237.6209375,
+      "limitKiB": 500
+    },
+    {
+      "file": "assets/loom-ack-mobile.webp",
+      "oneEnvironmentAndLargestPoseKiB": 173.5115625,
+      "limitKiB": 300
+    }
+  ]
+}
